@@ -1,0 +1,42 @@
+{
+    "station":
+    [
+     {
+     "name": "Telugu One Radio",
+     "streamURL": "http://173.203.133.187:9700/stream/1/",
+     "imageURL": "telugu-one.png",
+     "desc": "",
+     "longDesc": "This is a very popular online radio station that is on air 24 hours a day, 7 days a week. It broadcasts programmes in Telugu language, including music, talk shows and much more"
+     },
+     {
+         "name": "Radio Sai FM Telugu",
+         "streamURL": "http://stream.radiosai.org:8020/asiastreamfortelugu",
+         "imageURL": "radio-sai.png",
+         "desc": "",
+         "longDesc": "This is a very popular online radio station that is on air 24 hours a day, 7 days a week. It broadcasts programmes in Telugu language, including music, talk shows and much more"
+     },
+     {
+         "name": "Manasu Tho Emotional Songs",
+         "streamURL": "http://85.25.95.17:8008/stream/1/",
+         "imageURL": "emotional-song.png",
+         "desc": "",
+         "longDesc": "Manasu Tho is a global platform that broadcasts online 24 hours a day, 7 days a week. Its contents focus mostly on romantic music, which is featured through various different radio channels that the listener can choose"
+     }
+     ,
+     {
+         "name": "Radio9 Telugu",
+         "streamURL": "http://64.150.176.42:8166/stream/1/",
+         "imageURL": "radio9-telugu.png",
+         "desc": "",
+         "longDesc": "Established in 2012, this is a web radio station broadcasting from United Arab Emirates in Telugu language. Its mission is to promote the language, traditions and culture among the Indian and NRI."
+     }
+     ,
+     {
+         "name": "Hyderabad Techies Radio",
+         "streamURL": "http://184.107.202.178:8010/;",
+         "imageURL": "hyderbad-techies.png",
+         "desc": "",
+         "longDesc": "Hyderabad Techies Radio is the techno musical blend along with Indian music. The radio has good mix of their local music where they mixes the best local music along with the greatest world techno music for the perfect blend of music and entertainment"
+     }
+    ]
+}

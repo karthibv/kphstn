@@ -1,0 +1,49 @@
+{
+    "station":
+    [
+     {
+         "name": "Radio City Kannada",
+     "streamURL": "http://prclive1.listenon.in:8870/",
+     "imageURL": "city-kannada.png",
+     "desc": "",
+     "longDesc": "This Station is broadcasted by Planetradiocity. Listen Over 5 Kannada FM Radio Stations Online . With your favourites like RJ Netra, Pradeepa, Sowjanya and Love Guru, here`s presenting the best of Bangalore on Radio City Kannada – A dedicated online radio station for Kannada music lovers world over."
+     },
+     {
+         "name": "Premaloka Kannada Radio",
+         "streamURL": "http://prclive1.listenon.in:9934/",
+         "imageURL": "premaloka.png",
+         "desc": "",
+         "longDesc": "The Best of Kannada Love Songs with the soothing voice of Love Guru, all through the day, all throughout the year."
+     }
+     ,
+     {
+         "name": "Madhur Tarang Kannada Radio",
+         "streamURL": "http://philae.shoutca.st:8293/;",
+         "imageURL": "madhurtarang.png",
+         "desc": "",
+         "longDesc": "Madhur Tarang is a Kannada FM radio station broadcasting from India. Listen to Madhur Tarang Kannada radio to listen to your favorite Kannada songs and top Kannada songs. Madhur Tarang radio station covers many variety programs broadcasting the best Kannada songs and best shows from your favorite DJs."
+     }
+     ,
+     {
+         "name": "Rainbow Bengaluru",
+         "streamURL": "http://falcon.shoutca.st:8058/stream",
+         "imageURL": "rainbowbengalurukannada.png",
+         "desc": "",
+         "longDesc": "Rainbow Bengaluru is a Kannada FM radio station broadcasting from India. Listen to Rainbow Bengaluru Kannada radio to listen to your favorite Kannada songs and top Kannada songs. Rainbow Bengaluru radio station covers many variety programs broadcasting the best Kannada songs and best shows from your favorite DJs"
+     } ,
+     {
+         "name": "DR RajKumar Hits",
+         "streamURL": "http://prclive1.listenon.in:8826/;",
+         "imageURL": "rajjumarhits.png",
+         "desc": "",
+         "longDesc": "DR Rajkumar Hits is a Kannada FM radio station broadcasting from India. Listen to DR Rajkumar Hits Kannada radio to listen to your favorite Kannada songs and top Kannada songs."
+     },
+     {
+         "name": "Ragam Radio",
+         "streamURL": "http://andromeda.shoutca.st:8312/stream",
+         "imageURL": "raagamkannada.png",
+         "desc": "",
+         "longDesc": "Raagam is a Kannada FM radio station broadcasting from India. Listen to Raagam Kannada radio to listen to your favorite Kannada songs and top Kannada songs"
+     }
+    ]
+}

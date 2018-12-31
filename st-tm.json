@@ -1,0 +1,244 @@
+{
+    "station":
+    [
+        
+        {
+            "name": "Radio Mirchi Tamil FM",
+            "streamURL": "http://163.172.165.94:8320/",
+            "imageURL": "mirchitamilfm.png",
+            "desc": "Live, Talk, Hits",
+            "longDesc": "Radio Mirchi 98.3 Chennai is a Tamil Fm radio having broadcasting from chennai and coimbatore at 98.3MHZ.Listen to radio Mirchi to listen to your favorite tamil songs and top kollywood songs."
+        },
+        {
+            "name": "Chennai FM Rainbow",
+            "streamURL": "http://fmrainbow-lh.akamaihd.net//i//fmrainbow_1@507812//master.m3u8",
+            "imageURL": "fmrainbow.png",
+            "desc": "",
+            "longDesc": "Chennai FM Rainbow is a radio station that belongs to All India Radio network. It broadcasts from Chennai, Tamil Nadu, India, in Tamil and its contents focus mostly on music, namely Bollywood music."
+        },
+        {
+            "name": "Suryan 93.5 FM",
+            "streamURL": "http://163.172.165.94:8728/",
+            "imageURL": "suryanfm.png",
+            "desc": "Live, Talk, Hits",
+            "longDesc": "Sooriyan FM live broadcasting from Sri Lanka. Sooriyan FM broadcast various kind of latest hip hop, classic, dance, electronic etc. music. Sooriyan FM is a one of the most famous online radio station on Sri Lanka."
+        },
+        {
+            "name": "Sooriyan 103.6 FM",
+            "streamURL": "http://209.133.216.3:7071/",
+            "imageURL": "sooriyanfm.png",
+            "desc": "Live, Talk, Hits",
+            "longDesc": "Sooriyan FM live broadcasting from Sri Lanka. Sooriyan FM broadcast various kind of latest hip hop, classic, dance, electronic etc. music. Sooriyan FM is a one of the most famous online radio station on Sri Lanka."
+        },
+         {
+         "name": "All India Radio Air Tamil",
+         "streamURL": "http://51.15.208.163:8081/radio/airtamil/icecast.audio",
+         "imageURL": "airtamil.png",
+         "desc": "The Music Starts Here",
+         "longDesc": "All your favorite country hits and artists, from Johnny Cash to Taylor Swift, on 1.FM's Absolute Country, playing non-stop crooners and banjos, dance-tunes and fiddles, ballads and harmonicas. Absolute Country focuses on 5th, 6th and 7th generation Country (from the 90s on) but often delves into classic, older tunes as well."
+         },
+         {
+         "name": "Radio Vividh Bharati",
+         "streamURL": "http://51.15.208.163:8081/radio/vividhbharati/icecast.audio",
+         "imageURL": "station-newportfolk.png",
+         "desc": "Are you ready to Folk?",
+         "longDesc": "Do you like Indie music and along with that wants a radio that will provide lots of folk music in their daily radio programs than wait not just tune in to Newport Folk Radio as this is the kind of radio that has got lots of types of Indie music in their daily radio programs along with popular Folk music."
+         },
+     {
+     "name": "Ilayaraja Radio",
+     "streamURL": "http://southradios.net:9090/ilayarajaradio",
+     "imageURL": "illayarajafm.png",
+     "desc": "On the air Ilayaraja Radio",
+     "longDesc": "Ilaiyaraaja (born Gnanadesikan on 3 June 1943) is an Indian film composer, singer, and lyricist mainly in the Tamil film Industry and Telugu u Film Industry. He is regarded as one of the finest music composers in India. Ilaiyaraaja is also an instrumentalist, conductor, and a songwriter. To date, he has composed over 4500 songs and provided film scores for more than 950 Indian films in various languages in a career spanning more than 30 years"
+     }
+     ,
+     {
+     "name": "A.R. Rahman Radio Tamil",
+     "streamURL": "http://southradios.net:9090/arrahmanradio",
+     "imageURL": "arrahman.png",
+     "desc": "On the air A.R. Rahman Radio",
+     "longDesc": "This is an online radio station broadcasting from Chennai, Tamil Nadu, India. A. R. Rahman Radio’s schedule focus mostly on music, information and news. Its music contents include Tamil music."
+     }
+     ,
+     {
+     "name": "Geetham Tamil Radio",
+     "streamURL": "http://www.geethamradio.com:8020/hifi.mp3?type=.mp3/;stream.mp3",
+     "imageURL": "geethamradio.png",
+     "desc": "",
+     "longDesc": "Geetham Tamil Radio listener means a lot, the station wants to present themselves as a station listeners should be happy of. They build a great unity between the listeners and themselves so that they may have a good communication between them and their listeners which will result in a more entertainment rich radio station."
+     },
+     {
+     "name": "Radio Red FM Tamil",
+     "streamURL": "http://192.99.35.93:6130/;stream.mp3",
+     "imageURL": "redfmtamil.png",
+     "desc": "",
+     "longDesc": "Geetham Tamil Radio listener means a lot, the station wants to present themselves as a station listeners should be happy of. They build a great unity between the listeners and themselves so that they may have a good communication between them and their listeners which will result in a more entertainment rich radio station."
+     },
+     {
+     "name": "Oli 96.8 FM",
+     "streamURL": "https://18733.live.streamtheworld.com/OLI968FMAAC.aac?dist=liveonlineradio",
+     "imageURL": "olifm.png",
+     "desc": "Ethinic Indian Tamil",
+     "longDesc": "Oli 96.8 FM is one of the popular music station. Oli 96.8 FM station streaming music and programms both in air and online. Originally it is a Information and Entertainment radio channel plays around the clock 24 hours live online. Oli 96.8 FM also operate various musical programs consistantly for the people of all ages."
+     }
+     ,
+     {
+     "name": "Radio iYaliSai",
+     "streamURL": "http://andromeda.shoutca.st:9350/mp64",
+     "imageURL": "Iyalisairadio.png",
+     "desc": "",
+     "longDesc": "Geetham Tamil Radio listener means a lot, the station wants to present themselves as a station listeners should be happy of. They build a great unity between the listeners and themselves so that they may have a good communication between them and their listeners which will result in a more entertainment rich radio station."
+     },
+     {
+         "name": "Anirudh Radio",
+         "streamURL": "http://southradios.net:9090/anirudhradio",
+         "imageURL": "anirudh.png",
+         "desc": "Refreshing new Anirudh Hits",
+         "longDesc": "This is an Indian online radio station that broadcasts in Tamil language 24 hours a day, all year round. The programming of Anirudh Radio is focused on entertainment and music."
+     },
+     {
+         "name": "K. J. Yesudas Radio",
+         "streamURL": "http://southradios.net:9090/kjyesudasradio",
+         "imageURL": "kjyesudas.png",
+         "desc": "Refreshing Yesudas Hits",
+         "longDesc": "K. J. Yesudas Radio is an Indian online radio station that is on air non-stop 24 hours a day. Focused on entertainment and music its programming features the work of Kattassery Joseph Yesudas."
+     },
+     {
+         "name": "SPB Radio",
+         "streamURL": "http://southradios.net:9090/spbradio",
+         "imageURL": "spb.png",
+         "desc": "Refreshing SPB Hits",
+         "longDesc": "Based in India, this is an online radio station that is on air 24 hours a day, 7 days a week. The programming of SPB Radio is focused on the best hits of the Indian music."
+     },
+     {
+         "name": "Tamil Aruvi FM",
+         "streamURL": "http://s9.voscast.com:8430/stream/1/",
+         "imageURL": "aruvi.png",
+         "desc": "Refreshing with Aruvi FM",
+         "longDesc": "Tamil Aruvi FM station mostly time play International, Country, Rock, Folk etc music.Tamil Aruvi FM live broadcasting from Tamil.Tamil Aruvi FM also play 24hours various kind of music genres.Tamil Aruvi FM together with good music"
+     },
+     {
+         "name": "Hello FM",
+         "streamURL": "http://163.172.165.94:8736/",
+         "imageURL": "hello-fm-tamil-radio.png",
+         "desc": "",
+         "longDesc": "Hello FM is the largest network of private FM radio stations in Tamil Nadu and Puducherry."
+     },
+     {
+         "name": "Radio City Tamil Gold FM",
+         "streamURL": "http://prclive1.listenon.in:9930/",
+         "imageURL": "radiocity-tamilgold.png",
+         "desc": "",
+         "longDesc": "Radio city tamil gold FM radio is a tamil radio broadcasting from India.Tune to Radio city tamil gold FM tamil radio to listen to your favorite tamil songs and top kollywood songs.Radio city tamil gold FM contains a huge variety of programs telcasing wonderful tamil songs.Tune to Radio city tamil gold FM radio to listen super hit songs."
+     },
+     {
+         "name": "Varnam FM",
+         "streamURL": "http://s3.voscast.com:8402/",
+         "imageURL": "varanamfm.png",
+         "desc": "",
+         "longDesc": "Varnam FM is the Sri Lanka based radio station broadcasting Sri Lankan, Tamil and other form of music. They has got some of the talented DJ’s in their radio who creates some the freshest mix of great music which entertains the listeners of Varnam FM all day long with their beautiful music."
+     },
+     {
+         "name": "TAMIL FM 89.4 ONLINE RADIO",
+         "streamURL": "http://s3.voscast.com:8402/",
+         "imageURL": "tamil_89_4.png",
+         "desc": "Pop, Live",
+         "longDesc": "Tamil 89.4 FM radio is a tamil radio broadcasting from Dubai UAE.Tune to Tamil 89.4 FM tamil radio to listen to your favorite tamil songs and top kollywood songs.Tamil 89.4 FM contains a huge variety of programs telcasing wonderful tamil songs.Tune to Tamil 89.4 FM radio to listen super hit songs."
+     },
+     {
+         "name": "Harris Jayaraj Radio",
+         "streamURL": "http://southradios.net:9090/harrisjayarajradio",
+         "imageURL": "harisjayarajfm.png",
+         "desc": "Music",
+         "longDesc": "Harris jayaraj radio is a tamil radio broadcasting from India.Tune to Harris jayaraj tamil radio to listen to your favorite tamil songs and top kollywood songs.Harris jayaraj contains a huge variety of programs telcasing wonderful tamil songs.Tune to Harris jayaraj radio to listen super hit songs"
+     }
+     ,
+     {
+         "name": "Planet Radio City",
+         "streamURL": "http://prclive1.listenon.in:9948/",
+         "imageURL": "planetradio.png",
+         "desc": "Music",
+         "longDesc": "Broadcasting from India, this is a radio station that belongs to Planet Radio City. It broadcasts in Tamil language and its programming is dedicated to music contents, specially Tamil music."
+     } ,
+     {
+         "name": "Ezhisai FM",
+         "streamURL": "http://eu4.radioboss.fm:8191/;listen.pls?sid=1",
+         "imageURL": "ezhisaifm.png",
+         "desc": "Local Music",
+         "longDesc": "Something new and something engaging Ezhisai FM wants to differentiate them with such kinds of programs and programs initiative. In order to attract listeners a radio needs to offer their listeners the kinds of programs they likes to enjoy and Ezhisai FM in that regard they keeps connected with their listeners."
+     }
+     ,
+     {
+         "name": "Naga FM",
+         "streamURL": "http://songs.nagafm.com:8006/",
+         "imageURL": "nagafm.png",
+         "desc": "folk hits",
+         "longDesc": "Based in Singapore, Naga FM is an internet radio station that broadcasts in Tamil. Some of its most popular shows are Devotional songs, Retro Records, Good Morning and Good Evening."
+     } ,
+     {
+         "name": "Chellam FM",
+         "streamURL": "http://radio.chellam.fm:5012/stream",
+         "imageURL": "chellamfm.png",
+         "desc": "folk hits",
+         "longDesc": "Chellam FM is a community based radio station. This radio is broadcasting for the community of Tamil. There are a huge number of Tamil people living in UK and They sometimes feels the need to enjoy some of their great Tamil music and for them Chellam FM loves to provide good Tamil music to them."
+     } ,
+     {
+         "name": "Ilayaraja Super Beats Radio",
+         "streamURL": "http://southradios.net:9090/ilayarajasuperbeatsradio",
+         "imageURL": "illayarajasuperbeats.png",
+         "desc": "All Hits",
+         "longDesc": "Listen to Ilayaraja Super Beats Radio where Ilayaraja Hit and hits only playing round the clock with HD MP3 sound quality."
+     } ,
+     {
+         "name": "Lankasri FM",
+         "streamURL": "http://media2.lankasri.fm/",
+         "imageURL": "lankasrifm.png",
+         "desc": "Live",
+         "longDesc": "Established in 2010, Lankasri FM is a Tamil radio station that broadcasts from London, United Kingdom. Some of its most important shows are Arattai Neram, Kuttishudan Mikki, Anrum Enrum, Mettu Podu and many more"
+     },
+     {
+         "name": "Puradsi FM",
+         "streamURL": "http://s1.puradsifm.net:9000/",
+         "imageURL": "puradsifm.png",
+         "desc": "",
+         "longDesc": "Puradsi Fm is like a novelty in the history of the Tamil radio industry, the radio of listeners choice has started the work to began the revolution. Puradsi Fm services with a focus on the people as a whole, their young community, a descendant of future distress Tamil bonding aspects of the novelties of the radio revolution has begun its work"
+     }
+     ,
+     {
+         "name": "YSR Radio Tamil",
+         "streamURL": "http://southradios.net:9090/ysrradio",
+         "imageURL": "ysrradio.png",
+         "desc": "Hits, Chill-out",
+         "longDesc": "YSR or Yuvan Shankar Raja is an internet radio station broadcasting from Chennai, Tamil Nadu, India. It features a wide variety of music genres, namely Chill-out, Hits, Asian and Soundtrack."
+     },
+     {
+         "name": "Tube Tamil FM",
+         "streamURL": "http://s2.voscast.com:12084/.mp3",
+         "imageURL": "tubetamilfm.png",
+         "desc": "Super hit songs",
+         "longDesc": "Tube Tamil FM radio is a tamil radio broadcasting from Srilanka.Tune to Tube Tamil FM tamil radio to listen to your favorite tamil songs and top kollywood songs.Tube Tamil FM contains a huge variety of programs telcasing wonderful tamil songs.Tune to Tube Tamil FM radio to listen super hit songs."
+     },
+     {
+         "name": "Rajinikanth Hits Radio",
+         "streamURL": "http://prclive1.listenon.in:9296/;stream.mp3",
+         "imageURL": "rajinikanth.png",
+         "desc": "Super hit songs",
+         "longDesc": "Rajinikanth Hits radio is a tamil radio broadcasting from India.Tune to Rajinikanth Hits tamil radio to listen to your favorite tamil songs and top kollywood songs.Rajinikanth Hits contains a huge variety of programs telcasing wonderful tamil songs"
+     },
+     {
+         "name": "US Tamil FM online",
+         "streamURL": "http://streaming.radio.co/s0cfc93915/listen",
+         "imageURL": "ustamilfm.png",
+         "desc": "",
+         "longDesc": "US Tamil FM radio is a tamil radio broadcasting from united states.Tune to US Tamil FM tamil radio to listen to your favorite tamil songs and top kollywood songs.US Tamil FM contains a huge variety of programs telcasing wonderful tamil songs"
+     },
+     {
+         "name": "Minnal FM 92.3",
+         "streamURL": "https://dkmgz1nucppmx.cloudfront.net/rtm-ch021/playlist.m3u8",
+         "imageURL": "minnalfm.png",
+         "desc": "",
+         "longDesc": "This is a Tamil radio station on air 24 hours a day, 7 days a week. Minnal FM is located in Kuala Lumpur and features entertainment and information. Its team of professionals includes Johnson, Ravin, Buvana, Hari, to mention just a few."
+     }
+     
+    ]
+}

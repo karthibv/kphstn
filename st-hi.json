@@ -1,0 +1,140 @@
+{
+    "station":
+    [
+        {
+            "name": "Big FM 106.2 Hindi",
+            "streamURL": "https://sg1.fastcast4u.com/proxy/dzcwbfih?mp=/1",
+            "imageURL": "bigfm.png",
+            "desc": "Your Favorite Songs",
+            "longDesc": "Big FM 106.2 is a Hindi Fm radio having broadcasting from Duabi UAE..Listen to Big FM Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Big FM  contains a huge variety of programs telcasing wonderful Hindi songs.Tune to Big FM listen now."
+        },
+        {
+            "name": "Radio Mirchi Hindhi FM",
+            "streamURL": "http://peridot.streamguys.com:7150/Mirchi",
+            "imageURL": "radiomirchi_hindhi.png",
+            "desc": "Your Favorite Songs",
+            "longDesc": "Radio Mirchi  is a Hindhi Fm radio having broadcasting from Mumbai.Listen to Radio Mirchi Hindhi FM to listen to your favorite Hindhi songs and top bollywood songs.Radio Mirchi  contains a huge variety of programs telcasing wonderful Hindhi songs.Tune to Radio Mirchi listen now."
+        },
+     {
+     "name": "Radio City 91.1 FM Hindi",
+     "streamURL": "http://prclive1.listenon.in:9960/",
+     "imageURL": "radiocity.png",
+     "desc": "Your Lifestyle... Your Music!",
+     "longDesc": "Radio City 91.1FM, the best and largest place for music discovery from across 39 cities. Located in Bangalore, Radio City Hindi is a radio station established in 2001. Owned and managed by Music Broadcast Private Limited (MBPL), this is one of the most famous radio stations in India, being present in the main cities of the country."
+     },
+     {
+         "name": "Air Vividh Bharati",
+         "streamURL": "http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8",
+         "imageURL": "vividhbharti.png",
+         "desc": "music, entertainment",
+         "longDesc": "Vividh Bharati Radio is owned and managed by the Government of India through All India Radio. It has been broadcasting since the late fifties featuring music and entertainment 24 hours a day."
+     },
+     {
+         "name": "Bombay Beats Hindi",
+         "streamURL": "http://sc-bb.1.fm:8017/",
+         "imageURL": "bombaybeats.png",
+         "desc": "Bollywood sounds and Bombay hits from 1.FM.",
+         "longDesc": "1.FM is a radio station that features the best of Bollywood and Indian pop music. On air 24 hours a day, 7 days a week, this radio station features the best of Filmi songs, dance routines and Hindi-pop from the Mumbay film scene."
+     },
+     {
+         "name": "Bollywood Radio and Beyond",
+         "streamURL": "http://96.31.83.86:8084/",
+         "imageURL": "bollywoodbeyond.png",
+         "desc": "Indian Music",
+         "longDesc": "Broadcasting from USA, Bollywood Radio is a non-stop online radio station dedicated to Indian music. It features musical programmes and its team includes famous DJs from around the world."
+     },
+     {
+         "name": "Mohd Rafi Radio",
+         "streamURL": "http://radio.mohdrafi.com/rafi.mp3?1501312173835.mp3",
+         "imageURL": "mohdrafi.png",
+         "desc": "",
+         "longDesc": "Mohd Rafi Radio has been acknowledged for their great effort that promotes the music of the legendary singer of India who is also respected all over the world for his dedication and achievements in the musical world. Mohd Rafi Radio 24 hours non stop plays all the hit music of this great singer for his fans and listeners."
+     },
+     {
+         "name": "BBC Hindi Radio",
+         "streamURL": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup?type=.mp3",
+         "imageURL": "bbc_hindhi.png",
+         "desc": "News, science, sports, weather",
+         "longDesc": "BBC hindi, latest india and international news headlines in hindi using devanagari script. This is comprehensive coverage of latest news headlines in hindi"
+     },
+     {
+         "name": "Bollywood Hungama",
+         "streamURL": "http://www.bollywoodhungama.com/wp-content/uploads/2016/10/Nashe-Si-Chadh-Gayi.mp3",
+         "imageURL": "hungama.png",
+         "desc": "",
+         "longDesc": "Bollywood Hungama radio is a leading Bollywood entertainment internet radio streaming Bollywood new hits, Bollywood Hindi songs, latest Bollywood news, Bollywood film review and much more"
+     },
+     {
+         "name": "Hits Of Bollywood",
+         "streamURL": "http://50.7.77.115:8174/;",
+         "imageURL": "musicbeats.png",
+         "desc": "",
+         "longDesc": "Hits Of Bollywood welcome to all their true music loving listeners on this dedicated music site from Gujarat.Hits Of Bollywood radio  plays songs for todays young generation, from 7.00 PM(IST) for 2/3 hours"
+     },
+     {
+         "name": "All India Radio FM Gold",
+         "streamURL": "https://airfmgold-lh.akamaihd.net//i//fmgold_1@507591//master.m3u8",
+         "imageURL": "fmgold-hindhi.png",
+         "desc": "News, current affaris, music",
+         "longDesc": "FM Gold is on air since 2001. This is a radio channel of All India Radio, India's national broadcaster. Its schedule includes news and current affairs and music contents. It is available on FM in Delhi, Mumbai, Kolkata and Chennai"
+     },
+     {
+         "name": "AR Rahman Hindi Hits",
+         "streamURL": "http://southradios.net:9090/arrahmanhindiradio",
+         "imageURL": "arrahmanhindhi.png",
+         "desc": "Bollywood music",
+         "longDesc": "AR Rahman is a Hindi Fm radio having broadcasting from India.Listen to AR Rahman Hindi FM to listen to your favorite Hindi songs and top bollywood songs.AR Rahman contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+         "name": "Sada Bahar Music Radio",
+         "streamURL": "http://192.240.102.133:8512/stream/1/",
+         "imageURL": "sadabahar.png",
+         "desc": "Music Hits, movies",
+         "longDesc": "Sada Bahar Music Radio is a not-for-profit internet radio station with a programming dedicated to the music hits from the Hindi movies and ghazals, namely the successes of the past."
+     },
+     {
+         "name": "Lata Mangeshkar Radio",
+         "streamURL": "http://prclive1.listenon.in:8832/;",
+         "imageURL": "latamangeshkarradio.png",
+         "desc": "",
+         "longDesc": "Lata Mangeshkar Radio is a Hindi Fm radio having broadcasting from Los angels.Listen to Lata Mangeshkar Radio Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Lata Mangeshkar Radio contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+         "name": "Asha bhosle radio Hindi FM",
+         "streamURL": "http://prclive1.listenon.in:8812/;",
+         "imageURL": "ashabhosleradio.png",
+         "desc": "",
+         "longDesc": "Asha bhosle radio is a Hindi Fm radio having broadcasting from India.Listen to Asha bhosle radio Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Asha bhosle radio contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+         "name": "Non Stop Hindi FM",
+         "streamURL": "http://s5.voscast.com:8216/",
+         "imageURL": "nonstophindhi.png",
+         "desc": "",
+         "longDesc": "Asha bhosle radio is a Hindi Fm radio having broadcasting from India.Listen to Asha bhosle radio Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Asha bhosle radio contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+         "name": "Indifun Radio",
+         "streamURL": "http://indifun.net:7000/",
+         "imageURL": "indifunradio.png",
+         "desc": "",
+         "longDesc": ""
+     }
+     ,
+     {
+         "name": "Radio 90.5 FM Hindi",
+         "streamURL": "http://ice42.securenetsystems.net/CR90?type=.mp3",
+         "imageURL": "radio90_5fm.png",
+         "desc": "",
+         "longDesc": "Radio 90.5 FM is a Hindi Fm radio having broadcasting from Trinidad and Tobago.Listen to Radio 90.5 FM Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Radio 90.5 FM contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+         "name": "Radio Olive 106.3 FM",
+         "streamURL": "http://19113.live.streamtheworld.com/OLIVE1063.mp3",
+         "imageURL": "radioolive.png",
+         "desc": "",
+         "longDesc": "adio olive 106.3 FM is a Hindi Fm radio having broadcasting from Qator.Zindagi na milegi Dobara, here comes Radio Olive 106.3 FM to complete your entertainment level by offering you people an amazing cheerful life. Approximately 60% people lend their ears to a wide world of Hindi music which can tickle your past and brings a smile on your face. Listen to Radio olive 106.3 FM Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Radio olive 106.3 FM contains a huge variety of programs telcasing wonderful Hindi songs."
+     }
+     
+    ]
+}

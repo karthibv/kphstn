@@ -1,0 +1,41 @@
+{
+    "station":
+    [
+        {
+            "name": "UTHM Radio",
+            "streamURL": "http://radio.uthm.edu.my:8000/live.mp3",
+            "imageURL": "uthmradio.png",
+            "desc": "University campus radio",
+            "longDesc": "UTHM Radio is a university campus radio of Universiti Tun Hussein Onn Malaysia or Tun Hussein Onn University of Malaysia,  broadcasting 24 hours a day during term time across the University’s three campuses and worldwide via the internet."
+        },
+        {
+            "name": "Kool FM 101.3",
+            "streamURL": "http://mediaprima.rastream.com//mediaprima-koolfm",
+            "imageURL": "kool-fm-101-3.png",
+            "desc": "",
+            "longDesc": "Kool FM is located in Petaling Jaya and has been on air since 2016. Its programming combines entertainment, lifestyle, information, music, and news, and includes shows such as Evening Kool, Kool Reflection and Kool Night."
+        },
+        {
+            "name": "Bapakku FM",
+            "streamURL": "http://radio.bapakku.fm:8000/stream/1/",
+            "imageURL": "bapakku-fm.png",
+            "desc": "",
+            "longDesc": "On air 24 hours a day, 7 days a week, since 2009, Bapakku FM is an internet radio station that broadcasts from Kuala Lumpur, Wilayah Persekutuan. It features a mix of entertainment and information."
+        },
+        
+        {
+            "name": "Mutiara FM 95.7",
+            "streamURL": "https://dkmgz1nucppmx.cloudfront.net//rtm-ch039//playlist.m3u8",
+            "imageURL": "mutiara-fm-95-7.png",
+            "desc": "",
+            "longDesc": "Based in Georgetown, Pulau Pinang, Radio Mutiara FM is a radio station managed by Radio Televisyen Malaysia. It is on air daily (between 6 am and midnight) featuring local news and information and national music."
+        },
+     {
+         "name": "Radio 988 FM",
+         "streamURL": "http://starrfm.rastream.com/starrfm-988",
+         "imageURL": "988fm.png",
+         "desc": "Popular radio of Malaysia",
+         "longDesc": "Radio 988 FM Malaysia is the most popular radio of Malaysia and listens throughout the area. With the Genres of Top 40/Pop, Mature Contemporary it is becoming the leading station of not only the area but also in the whole nation. It broadcasts its content in the Language of Chinese"
+     }
+    ]
+}

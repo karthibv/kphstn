@@ -1,0 +1,61 @@
+{
+    "station":
+    [
+     {
+     "name": "Gold 90.5FM",
+     "streamURL": "https://18733.live.streamtheworld.com/GOLD905AAC.aac?dist=liveonlineradio",
+     "imageURL": "gold905.png",
+     "desc": "Sounds Good, Feels Good",
+     "longDesc": "Gold 90.5FM is an English radio station of MediaCorp in Singapore. It broadcasts classic hits from the 60s and beyond. Their stable of DJs includes Singapore’s granddaddy of radio, with over 30 years of experience, Brian Richmond."
+     },
+     {
+         "name": "Class 95 FM",
+         "streamURL": "https://19813.live.streamtheworld.com/CLASS95AAC.aac?dist=onlineradiobox",
+         "imageURL": "class95.png",
+         "desc": "Music hits",
+         "longDesc": "Singapore's best mix of music over the airwaves is Class 95FM. Be entertained with hits from the 70s, 80s and 90s"
+     },
+     {
+         "name": "BBC world servie FM",
+         "streamURL": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
+         "imageURL": "bbcworldservice.png",
+         "desc": "Music hits",
+         "longDesc": "BBC world servie  is a English Fm radio having broadcasting from London.Listen to BBC world servie English FM to listen to your favorite English songs and top kollywood songs.BBC world servie  contains a huge variety of programs telcasing wonderful English songs."
+     },
+     {
+         "name": "All Hit Radio English",
+         "streamURL": "http://zas1.ndx.co.za:8124/;listen.mp3",
+         "imageURL": "allhitradio.png",
+         "desc": "Music hits",
+         "longDesc": "All Hit Radio  is a English Fm radio having broadcasting from southafrica .Listen to All Hit Radio English FM to listen to your favorite English songs and top kollywood songs.All Hit Radio  contains a huge variety of programs telcasing wonderful English songs"
+     },
+     {
+         "name": "94.7 FM Hits English",
+         "streamURL": "http://ice66.securenetsystems.net/WYUL2",
+         "imageURL": "947fmhits.png",
+         "desc": "Music hits",
+         "longDesc": "94.7 FM Hits  is a English Fm radio having broadcasting from srilanka brocasting at .Listen to 94.7 FM Hits English FM to listen to your favorite English songs and top kollywood songs.94.7 FM Hits  contains a huge variety of programs telcasing wonderful English songs"
+     },
+     {
+         "name": "Diamond FM English",
+         "streamURL": "http://zas1.ndx.co.za:8170/;listen.mp3",
+         "imageURL": "diamondfm.png",
+         "desc": "Music hits",
+         "longDesc": "Diamond FM  is a English Fm radio having broadcasting from Africa .Listen to Diamond FM English FM to listen to your favorite English songs and top kollywood songs.Diamond FM  contains a huge variety of programs telcasing wonderful English songs"
+     },
+     {
+         "name": "Dance FM English",
+         "streamURL": "http://19113.live.streamtheworld.com:3690/DANCE_FM_SC",
+         "imageURL": "dancefm.png",
+         "desc": "Music hits",
+         "longDesc": "Dance FM  is a English Fm radio having broadcasting from Dubai .Listen to Dance FM English FM to listen to your favorite English songs and top kollywood songs.Dance FM  contains a huge variety of programs telcasing wonderful English songs"
+     },
+     {
+         "name": "Kiss FM English",
+         "streamURL": "http://s3.voscast.com:8404/;stream.mp3",
+         "imageURL": "kissfmenglish.png",
+         "desc": "Music hits",
+         "longDesc": "Kiss FM  is a English Fm radio having broadcasting from srilanka .Listen to Kiss FM English FM to listen to your favorite English songs and top kollywood songs.Kiss FM  contains a huge variety of programs telcasing wonderful English songs"
+     }
+    ]
+}

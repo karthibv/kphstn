@@ -1,0 +1,61 @@
+{
+    "station":
+    [
+     {
+     "name": "Chinese Music World",
+     "streamURL": "http://radio2.chinesemusicworld.com/;",
+     "imageURL": "musicworld.png",
+     "desc": "On the air Chinese Music World",
+     "longDesc": "ChineseMusicWorld is a portal for Chinese classical music lovers. It features a 24 hour online radio, as well as the knowledge base for you to know about Chinese classical music."
+     },
+     {
+         "name": "Big B Radio - KPOP",
+         "streamURL": "http://radio2.chinesemusicworld.com/;",
+         "imageURL": "bigbradio.png",
+         "desc": "Asian pop music",
+         "longDesc": "Big B Radio is an internet radio station streaming Asian pop music. It was launched in 2004 and since that time it broadcasts via its live stream 24 hours a day and 7 days a week. Big B Radio includes 4 streaming channels: KPOP channel (this abbreviation stands for Korean pop), JPOP (Japanese pop), CPOP (Chinese pop) and AsianPop (Asian-American pop). Each channel is dedicated to a specific music genre and is named after that genre. They don’t just play music but also have several regular shows."
+     },
+     {
+         "name": "Mandarin Station 98.3 FM",
+         "streamURL": "http://158.69.119.235:8016/;",
+         "imageURL": "ms98_3.png",
+         "desc": "",
+         "longDesc": "Mandarin Station 98.3 FM is dedicated toward playing lots of Chinese music. They wants to target the listeners who are from China and wants a radio that will play the best and trending music out there. The radio is essentially one of the hottest online radio out there and with thousands of listeners daily they are becoming more popular everyday."
+     },
+     {
+         "name": "Yes 93.3 FM",
+         "streamURL": "https://18823.live.streamtheworld.com/YES933AAC.aac?dist=liveonlineradio",
+         "imageURL": "yes93_3.png",
+         "desc": "Top pop music radio",
+         "longDesc": "Top pop music radio listeners in Singapore has been the proverbial YES 93.3FM preferred radio station. As of the first quarter of 2012, a local radio station to listen to survey results, YES 93.3FM once again become Singapore’s highest rates of radio listening."
+     },
+     {
+         "name": "Kiss 92",
+         "streamURL": "http://20683.live.streamtheworld.com/KISS_92AAC.aac?dist=liveonlineradio",
+         "imageURL": "kiss.png",
+         "desc": "All the great songs in one place",
+         "longDesc": "Kiss92 gives fans All The Great Songs in One Place. Kiss92 entertains with a team of DJs brimming with fun, energy, and knowledge. Giving you your morning Kiss is veteran Maddy Barber, with The New Paper’s Movie Guy Jason Johnson, and “The Auntie Killer” Arnold Gay. Also in the Kiss92 family are  Carol Smith, Charmaine Yee and Shan Wee. Wrap up your day with Joshua Simon as he takes in Kiss92 instant requests, countdown of the top 5 most requested songs at 9pm and bringing in today’s hottest pop gossips and freshest entertainment news."
+     },
+     {
+         "name": "Love 97.2FM",
+         "streamURL": "https://19813.live.streamtheworld.com/LOVE972FMAAC.aac?dist=liveonlineradio",
+         "imageURL": "love97_2.png",
+         "desc": "Top pop music radio",
+         "longDesc": "Love 97.2FM is a broadcast radio station in Singapore providing popular Mandarin songs from the 80s till today as well as lifestyle programs for today’s contemporary adults."
+     },
+     {
+         "name": "Radio 988 FM",
+         "streamURL": "http://starrfm.rastream.com/starrfm-988",
+         "imageURL": "988fm.png",
+         "desc": "",
+         "longDesc": "Radio 988 FM Malaysia is the most popular radio of Malaysia and listens throughout the area. With the Genres of Top 40/Pop, Mature Contemporary it is becoming the leading station of not only the area but also in the whole nation. It broadcasts its content in the Language of Chinese"
+     },
+     {
+         "name": "Durian FM Malaysia",
+         "streamURL": "http://s3.voscast.com:7140/stream/1/",
+         "imageURL": "durian-fm-malaysia.png",
+         "desc": "",
+         "longDesc": "This is a radio station located in Petaling Jaya. Durian FM broadcasts in Chinese and its programming is a mix of information, news, interviews, talk shows, debates and much more."
+     }
+    ]
+}

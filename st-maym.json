@@ -1,0 +1,101 @@
+{
+    "station":
+    [
+     
+     {
+     "name": "Hit 96.7 FM Malayalam",
+     "streamURL": "https://19393.live.streamtheworld.com:443/HIT_SC",
+     "imageURL": "hit96_7.png",
+     "desc": "Party Zone... Hit Top 25!",
+     "longDesc": "Owned and operated by Arabian Radio Network, Hit 96.7 FM is a radio broadcaster based in Dubai, United Arab Emirates. It was established in 2004 aiming to inform and entertain the Malayalam community."
+     },
+     {
+         "name": "Ragam Radio Malayalam",
+         "streamURL": "http://178.32.107.151:5116/stream/1/",
+         "imageURL": "ragam-radio.png",
+         "desc": "Rock n' Roll",
+         "longDesc": "Ragam Radio is a malayalam radio having broadcasting from kerala.Listen to Ragam Radio malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Ragam Radio contains a huge variety of programs telcasing wonderful malayalam songs.Tune to Ragam Radio listen now.This internet radio station was launched in 2011 and its programming focuses mostly on music contents from various genres, namely Rock n' Roll, Hindi Songs, Tamil Songs, Malayalam Album Songs, Sad Songs and much more."
+     },
+     {
+         "name": "Kerala Radio Malayalam",
+         "streamURL": "http://radio.hostonnet.com:8000/",
+         "imageURL": "kerala-radio.png",
+         "desc": "Rock n' Roll",
+         "longDesc": "Located in Kochi, in the southwest of India, Kerala Radio is a station that broadcasts 24 hours a day, 7 days a week in Malayalam. Its programming is mostly focused in music contents."
+     },
+     {
+         "name": "Radio Heartbeats Malayalam",
+         "streamURL": "http://64.150.176.9:8272/live",
+         "imageURL": "heartbeats-radio.png",
+         "desc": "Hit Songs",
+         "longDesc": "Serving listeners all over the world, Radio Heartbeats is an internet radio station dedicated to North and South Indian music, focusing on Hindi, Malayalam, Tamil, Christian and Hindu devotional songs."
+     },
+     {
+         "name": "Malayalam Latest Hits Radio",
+         "streamURL": "http://southradios.net:9090/malayalamhits",
+         "imageURL": "malyalam-latest-hits.png",
+         "desc": "Hit Songs",
+         "longDesc": "Listen to Malayalam Latest Best Hit Songs Radio lively 24/7/365 with HD MP3 quality all around the days."
+     },
+     {
+         "name": "Heavenly Radio Malayalam",
+         "streamURL": "http://178.32.107.151:5060/stream/1/",
+         "imageURL": "heavenlyradio.png",
+         "desc": "Feel the Joy of Spirituality",
+         "longDesc": "Heavenly Radio is a non profit, non-commercial radio station launched in 2011. This Malayalam Christian radio broadcasts 24 hours a day, featuring a mix of music contents and biblical teachings"
+     },
+     {
+         "name": "World to world Radio Malayalam",
+         "streamURL": "http://178.32.107.151:5060/stream/1/",
+         "imageURL": "worldtoworld.png",
+         "desc": "Religious music, Bible teachings",
+         "longDesc": "This is a Christian internet radio that broadcasts in Malayalam 24 hours a day, 7 days a week. Dedicated to spread the word of God, its contents include religious music, Bible teachings and much more."
+     },
+     
+     {
+         "name": "Sunni Online Radio",
+         "streamURL": "http://s7.voscast.com:7812/stream/1/",
+         "imageURL": "sunni-online-fm.png",
+         "desc": "Islamic radio",
+         "longDesc": "Broadcasting in Malayalam from India, this is an online radio station that is on air 24 hours a day, all year round. Sunni Online Radio is an Islamic radio that features contents from Kerala Malabar Islamic Classroom"
+     },
+     
+     {
+         "name": "Ganam Radio Malayalam",
+         "streamURL": "http://5.79.88.132:7104/",
+         "imageURL": "ganam_radio.png",
+         "desc": "music hits",
+         "longDesc": "This is an online radio station broadcasting in Malayalam from United Arab Emirates. Ganam Radio is dedicated to the Malayalam music hits. It is on air 24 hours a day, 7 days a week."
+     },
+     {
+         "name": "Psalms Radio malayalam",
+         "streamURL": "http://viadj.viastreaming.net:7084/;",
+         "imageURL": "psalmradio.png",
+         "desc": "Devotional songs",
+         "longDesc": "This station is based in Kottayam. It broadcasts 24 hours of Malayalam, English and Tamil Christian music since it was established in 2010. Psalms Radio is a devotional online radio station."
+     },
+     {
+         "name": "Marconi Malayalam",
+         "streamURL": "http://stream.zenolive.com/051bvhgvwa5tv",
+         "imageURL": "marconimalayalam.png",
+         "desc": "Mix of music, movies, entertainment ",
+         "longDesc": "On air since 2009, this is a radio station that broadcasts from Kerala in Malayalam. Marconi Malayalam features a mix of music, movies, entertainment and much more to the community spread around the world."
+     },
+     {
+         "name": "KJ Yesudas hits Malayalam",
+         "streamURL": "http://prclive1.listenon.in:8824/;",
+         "imageURL": "kjyesudas.png",
+         "desc": "Hit Songs ",
+         "longDesc": "KJ Yesudas hits is a malayalam radio having broadcasting from India.Listen to KJ Yesudas hits malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.KJ Yesudas hits contains a huge variety of programs telcasing wonderful malayalam songs"
+     }
+     ,
+     {
+         "name": "Hit Classics Malayalam",
+         "streamURL": "http://19393.live.streamtheworld.com/HIT_CLASSICSAAC_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.e",
+         "imageURL": "hitclassic.png",
+         "desc": "Hit Songs ",
+         "longDesc": "Hit Classics is a malayalam radio having broadcasting from Dubai.Listen to Hit Classics malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Hit Classics contains a huge variety of programs telcasing wonderful malayalam songs."
+     }
+     
+    ]
+}

@@ -10,13 +10,6 @@
             "longDesc": "Radio Mirchi 98.3 Chennai is a Tamil Fm radio having broadcasting from chennai and coimbatore at 98.3MHZ.Listen to radio Mirchi to listen to your favorite tamil songs and top kollywood songs."
         },
         {
-            "name": "Chennai FM Rainbow",
-            "streamURL": "http://fmrainbow-lh.akamaihd.net//i//fmrainbow_1@507812//master.m3u8",
-            "imageURL": "fmrainbow.png",
-            "desc": "",
-            "longDesc": "Chennai FM Rainbow is a radio station that belongs to All India Radio network. It broadcasts from Chennai, Tamil Nadu, India, in Tamil and its contents focus mostly on music, namely Bollywood music."
-        },
-        {
             "name": "Suryan 93.5 FM",
             "streamURL": "http://163.172.165.94:8728/",
             "imageURL": "suryanfm.png",
@@ -34,14 +27,14 @@
          "name": "All India Radio Air Tamil",
          "streamURL": "http://51.15.208.163:8081/radio/airtamil/icecast.audio",
          "imageURL": "airtamil.png",
-         "desc": "The Music Starts Here",
+         "desc": "",
          "longDesc": "All your favorite country hits and artists, from Johnny Cash to Taylor Swift, on 1.FM's Absolute Country, playing non-stop crooners and banjos, dance-tunes and fiddles, ballads and harmonicas. Absolute Country focuses on 5th, 6th and 7th generation Country (from the 90s on) but often delves into classic, older tunes as well."
          },
          {
          "name": "Radio Vividh Bharati",
          "streamURL": "http://51.15.208.163:8081/radio/vividhbharati/icecast.audio",
          "imageURL": "station-newportfolk.png",
-         "desc": "Are you ready to Folk?",
+         "desc": "",
          "longDesc": "Do you like Indie music and along with that wants a radio that will provide lots of folk music in their daily radio programs than wait not just tune in to Newport Folk Radio as this is the kind of radio that has got lots of types of Indie music in their daily radio programs along with popular Folk music."
          },
      {
@@ -238,7 +231,35 @@
          "imageURL": "minnalfm.png",
          "desc": "",
          "longDesc": "This is a Tamil radio station on air 24 hours a day, 7 days a week. Minnal FM is located in Kuala Lumpur and features entertainment and information. Its team of professionals includes Johnson, Ravin, Buvana, Hari, to mention just a few."
-     }
+     },
+     {
+         "name": "Tamizh FM",
+         "streamURL": "http://shaincast.caster.fm:47814/listen.mp3",
+         "imageURL": "tamilradiofm.png",
+         "desc": "",
+         "longDesc": "This is a Tamil FM station on air 24 hours a day, 7 days a week."
+     },
      
+     {
+         "name": "TamilMirror Radio",
+         "streamURL": "http://s6.voscast.com:7888/stream/1/",
+         "imageURL": "tamilmirror-radio.png",
+         "desc": "",
+         "longDesc": "On air since 2010, TamilMirror Radio is a radio broadcaster that focuses its programming on information and news. It is on air 24 hours a day, 7 days a week, and broadcasts from Colombo."
+     },
+     {
+         "name": "Shakthi FM 104.1 FM",
+         "streamURL": "http://live.trusl.com:1160/stream/1/",
+         "imageURL": "shakthi-fm-104-1-fm.png",
+         "desc": "",
+         "longDesc": "Owned and operated by the Maharaja Broadcasting Corporation, Shakthi FM is a radio channel located in Pannipitiya, Sri Lanka. It is on air since the end of the nineties and broadcasts in Tamil."
+     },
+     {
+         "name": "Radio City Deepam",
+         "streamURL": "http://prclive1.listenon.in:9306//;",
+         "imageURL": "radiocitydeepam.png",
+         "desc": "Tamil devotional Songs",
+         "longDesc": "Radio City Deepam is broadcasting on a frequency and Web, It is one of the most Indian popular radio stations that is powered by Radio City 91.1. The station plays excellence music"
+     }
     ]
 }

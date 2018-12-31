@@ -96,6 +96,21 @@
          "desc": "Hit Songs ",
          "longDesc": "Hit Classics is a malayalam radio having broadcasting from Dubai.Listen to Hit Classics malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Hit Classics contains a huge variety of programs telcasing wonderful malayalam songs."
      }
-     
+     ,
+     {
+         "name": "Radio Maharani",
+         "streamURL": "http://audiocp.globaliway.co.in:7235/start/maharani/;stream.mp3",
+         "imageURL": "maharaniradio.png",
+         "desc": "",
+         "longDesc": "Radio maharani is a malayalam radio having broadcasting from Kerala.Radio Maharani is an Online Radio 24/7 streams Malayalam music ,current affairs and news covered by our Android app.Listen to Radio maharani malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Radio maharani contains a huge variety of programs telcasing wonderful malayalam songs."
+     }
+     ,
+     {
+         "name": "Mazhavi FM",
+         "streamURL": "http://mazhavilfm.out.airtime.pro:8000/mazhavilfm_a",
+         "imageURL": "mazhavilfm.png",
+         "desc": "",
+         "longDesc": "Mazhavil FM is a malayalam Fm radio having broadcasting from Kerala.Listen to Mazhavil FM malayalam fm to listen to your favorite Malayalam songs and top kollywood songs.Mazhavil fm contains a huge variety of programs telcasing wonderful malayalam songs."
+     }
     ]
 }

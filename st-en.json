@@ -9,6 +9,13 @@
      "longDesc": "Gold 90.5FM is an English radio station of MediaCorp in Singapore. It broadcasts classic hits from the 60s and beyond. Their stable of DJs includes Singapore’s granddaddy of radio, with over 30 years of experience, Brian Richmond."
      },
      {
+         "name": "Red FM 107.8 FM",
+         "streamURL": "http://shaincast.caster.fm:47830/listen.mp3",
+         "imageURL": "red107.png",
+         "desc": "Sri Lanka's #1 Variety Station",
+         "longDesc": "Red FM is an entertainment and music radio station that broadcasts from Sri Lanka. It plays music from the 80s, Hip Hop, Grunge, Electronic Dance and much more. Its team includes Suresh Dee, Kevin, Deanna and Keith, among others.."
+     },
+     {
          "name": "Class 95 FM",
          "streamURL": "https://19813.live.streamtheworld.com/CLASS95AAC.aac?dist=onlineradiobox",
          "imageURL": "class95.png",
@@ -56,6 +63,20 @@
          "imageURL": "kissfmenglish.png",
          "desc": "Music hits",
          "longDesc": "Kiss FM  is a English Fm radio having broadcasting from srilanka .Listen to Kiss FM English FM to listen to your favorite English songs and top kollywood songs.Kiss FM  contains a huge variety of programs telcasing wonderful English songs"
+     },
+     {
+         "name": "A BIG HitZ Radio",
+         "streamURL": "http://listen.radionomy.com/a-big-hitz-radio",
+         "imageURL": "abighitz.png",
+         "desc": "unconventional music",
+         "longDesc": "A BIG HitZ Radio is Hit Music and commercial free all day long. We are not your conventional music station. It is an unconventional music station that streams music 24/7 via the Internet. "
+     },
+     {
+         "name": "Insomnia FM",
+         "streamURL": "http://635.cloudrad.io:8092/;",
+         "imageURL": "Insomniafm.png",
+         "desc": "",
+         "longDesc": "Insomnia Fm offers a free platform to promote various shows to provide DJ’s & Producers Careers.The shows are available for free streaming at 128 kbps, and also for download by becoming an subscriber, with more than 200 exclusive radio shows!We also provide a monthly InsomniaFM Podcast and a weekly Mix of the Week."
      }
     ]
 }

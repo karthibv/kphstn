@@ -2,12 +2,26 @@
     "station":
     [
         {
+            "name": "Spice FM Radio",
+            "streamURL": "http://fmout.spicefm.in:8000/spice_b",
+            "imageURL": "spice-fm.png",
+            "desc": "",
+            "longDesc": "Spice FM Radio is a Telugu radio having broadcasting from Andrapradesh.Listen to Spice FM Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs."
+            },
+        {
         "name": "Telugu One Radio",
         "streamURL": "http://173.203.133.187:9700/stream/1/",
         "imageURL": "telugu-one.png",
         "desc": "",
         "longDesc": "This is a very popular online radio station that is on air 24 hours a day, 7 days a week. It broadcasts programmes in Telugu language, including music, talk shows and much more"
         },
+        {
+            "name": "AP 9 Fm Radio",
+            "streamURL": "http://s2.voscast.com:10704/;",
+            "imageURL": "ap9fm.png",
+            "desc": "",
+            "longDesc": "AP 9 Fm Radio is a Telugu radio having broadcasting from Andra.Listen to AP 9 Fm Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.AP 9 Fm Radio contains a huge variety of programs telcasing wonderful Hindi songs."
+            },
         {
             "name": "Radio Sai FM Telugu",
             "streamURL": "http://stream.radiosai.org:8020/asiastreamfortelugu",
@@ -34,7 +48,7 @@
      {
          "name": "Gelupu Telugu FM",
          "streamURL": "http://s7.voscast.com:7586/;",
-         "imageURL": "gelupuradio.png",
+         "imageURL": "mirchiloveradio.png",
          "desc": "",
          "longDesc": "Gelupu is a Telugu radio having broadcasting from North america.Listen to Gelupu Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.Gelupu contains a huge variety of programs telcasing wonderful Hindi songs."
      },
@@ -46,11 +60,11 @@
          "longDesc": "Nuke Telugu old hits Radio is a Telugu radio having broadcasting from Telangana.Listen to Nuke Telugu old hits Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs."
      },
      {
-         "name": "T 24 Radio Telangana",
-         "streamURL": "http://s6.voscast.com:10596/;",
+         "name": "Mirchi Love Radio",
+         "streamURL": "http://51.15.208.163:8081/radio/Mirchi_love_telugu/icecast.audio",
          "imageURL": "t24radio.png",
          "desc": "",
-         "longDesc": "T 24 Radio is a Telugu radio having broadcasting from bayarea..Listen to T 24 Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.T 24 Radio contains a huge variety of programs telcasing wonderful Hindi songs."
+         "longDesc": "Mirchi Love Radio is a Telugu radio having broadcasting from Telangans.Listen to Mirchi Love Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.Mirchi Love Radio contains a huge variety of programs telcasing wonderful Hindi songs."
      },
      {
          "name": "Ghantasala Hits Telugu FM",

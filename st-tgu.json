@@ -93,6 +93,13 @@
          "imageURL": "radiocaravan.png",
          "desc": "",
          "longDesc": "Radio Caravan is a Telugu radio having broadcasting from USA.Listen to Radio Caravan Telugu FM to listen to your favorite Telugu songs and top Tollywood songs."
+     },
+     {
+         "name": "Telugu Hits Radio",
+         "streamURL": "https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/master.m3u8",
+         "imageURL": "teluguhits.png",
+         "desc": "",
+         "longDesc": "Telugu Hits Radio is a Telugu radio having broadcasting from Telangans.Listen to Telugu Hits Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs."
      }
     ]
 }

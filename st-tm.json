@@ -86,21 +86,21 @@
          "name": "Anirudh Radio",
          "streamURL": "http://southradios.net:9090/anirudhradio",
          "imageURL": "anirudh.png",
-         "desc": "Refreshing new Anirudh Hits",
+         "desc": "",
          "longDesc": "This is an Indian online radio station that broadcasts in Tamil language 24 hours a day, all year round. The programming of Anirudh Radio is focused on entertainment and music."
      },
      {
          "name": "K. J. Yesudas Radio",
          "streamURL": "http://southradios.net:9090/kjyesudasradio",
          "imageURL": "kjyesudas.png",
-         "desc": "Refreshing Yesudas Hits",
+         "desc": "",
          "longDesc": "K. J. Yesudas Radio is an Indian online radio station that is on air non-stop 24 hours a day. Focused on entertainment and music its programming features the work of Kattassery Joseph Yesudas."
      },
      {
          "name": "SPB Radio",
          "streamURL": "http://southradios.net:9090/spbradio",
          "imageURL": "spb.png",
-         "desc": "Refreshing SPB Hits",
+         "desc": "",
          "longDesc": "Based in India, this is an online radio station that is on air 24 hours a day, 7 days a week. The programming of SPB Radio is focused on the best hits of the Indian music."
      },
      {
@@ -260,6 +260,27 @@
          "imageURL": "radiocitydeepam.png",
          "desc": "Tamil devotional Songs",
          "longDesc": "Radio City Deepam is broadcasting on a frequency and Web, It is one of the most Indian popular radio stations that is powered by Radio City 91.1. The station plays excellence music"
+     },
+     {
+         "name": "Kamal Hasan Hits",
+         "streamURL": "http://prclive1.listenon.in:8836/;",
+         "imageURL": "kamalhasanhits.png",
+         "desc": "",
+         "longDesc": "Kamal Hasan Hits radio is a tamil radio broadcasting from India.Tune to Kamal Hasan Hits tamil radio to listen to your favorite tamil songs and top kollywood songs.Kamal Hasan Hits contains a huge variety of programs telcasing wonderful tamil songs."
+     },
+     {
+         "name": "AR Rahman lite FM",
+         "streamURL": "http://southradios.net:9090/arrahmanliteradio",
+         "imageURL": "arrahmanliteradio.png",
+         "desc": "",
+         "longDesc": "AR Rahman lite FM radio is a tamil radio broadcasting from India.Tune to AR Rahman lite FM tamil radio to listen to your favorite tamil songs and top kollywood songs.AR Rahman lite FM contains a huge variety of programs telcasing wonderful tamil songs."
+     },
+     {
+         "name": "Palaiya Paadal Radio",
+         "streamURL": "http://southradios.net:9090/palaiyapaadalradio",
+         "imageURL": "palaiyapaadalradio.png",
+         "desc": "",
+         "longDesc": "Palaiya Paadal Radio radio is a tamil radio broadcasting from India.Tune to Palaiya Paadal Radio tamil radio to listen to your favorite tamil songs and top kollywood songs.Palaiya Paadal Radio contains a huge variety of programs telcasing wonderful tamil songs."
      }
     ]
 }

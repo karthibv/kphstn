@@ -13,28 +13,28 @@
          "name": "Ragam Radio Malayalam",
          "streamURL": "http://178.32.107.151:5116/stream/1/",
          "imageURL": "ragam-radio.png",
-         "desc": "Rock n' Roll",
+         "desc": "",
          "longDesc": "Ragam Radio is a malayalam radio having broadcasting from kerala.Listen to Ragam Radio malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Ragam Radio contains a huge variety of programs telcasing wonderful malayalam songs.Tune to Ragam Radio listen now.This internet radio station was launched in 2011 and its programming focuses mostly on music contents from various genres, namely Rock n' Roll, Hindi Songs, Tamil Songs, Malayalam Album Songs, Sad Songs and much more."
      },
      {
          "name": "Kerala Radio Malayalam",
          "streamURL": "http://radio.hostonnet.com:8000/",
          "imageURL": "kerala-radio.png",
-         "desc": "Rock n' Roll",
+         "desc": "",
          "longDesc": "Located in Kochi, in the southwest of India, Kerala Radio is a station that broadcasts 24 hours a day, 7 days a week in Malayalam. Its programming is mostly focused in music contents."
      },
      {
          "name": "Radio Heartbeats Malayalam",
          "streamURL": "http://64.150.176.9:8272/live",
          "imageURL": "heartbeats-radio.png",
-         "desc": "Hit Songs",
+         "desc": "",
          "longDesc": "Serving listeners all over the world, Radio Heartbeats is an internet radio station dedicated to North and South Indian music, focusing on Hindi, Malayalam, Tamil, Christian and Hindu devotional songs."
      },
      {
          "name": "Malayalam Latest Hits Radio",
          "streamURL": "http://southradios.net:9090/malayalamhits",
          "imageURL": "malyalam-latest-hits.png",
-         "desc": "Hit Songs",
+         "desc": "",
          "longDesc": "Listen to Malayalam Latest Best Hit Songs Radio lively 24/7/365 with HD MP3 quality all around the days."
      },
      {
@@ -111,6 +111,20 @@
          "imageURL": "mazhavilfm.png",
          "desc": "",
          "longDesc": "Mazhavil FM is a malayalam Fm radio having broadcasting from Kerala.Listen to Mazhavil FM malayalam fm to listen to your favorite Malayalam songs and top kollywood songs.Mazhavil fm contains a huge variety of programs telcasing wonderful malayalam songs."
+     },
+     {
+         "name": "Club FM 94.3 Radio",
+         "streamURL": "http://mazhavilfm.out.airtime.pro:8000/mazhavilfm_a",
+         "imageURL": "clubfm.png",
+         "desc": "",
+         "longDesc": "Club FM Radio is a malayalam radio having broadcasting from UAE.Listen to Club FM Radio malayalam FM to listen to your favorite Malayalam songs and top Mollywood songs.Club FM Radio contains a huge variety of programs telcasing wonderful malayalam songs."
+     },
+     {
+         "name": "Malayalam Hits",
+         "streamURL": "http://southradios.net:9090/malayalamhits",
+         "imageURL": "malayalamhits.png",
+         "desc": "",
+         "longDesc": "Malayalam Hits is a malayalam radio having broadcasting from London.Listen to Malayalam Hits malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Malayalam Hits contains a huge variety of programs telcasing wonderful malayalam songs."
      }
     ]
 }

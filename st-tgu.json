@@ -1,42 +1,77 @@
 {
     "station":
     [
+        {
+        "name": "Telugu One Radio",
+        "streamURL": "http://173.203.133.187:9700/stream/1/",
+        "imageURL": "telugu-one.png",
+        "desc": "",
+        "longDesc": "This is a very popular online radio station that is on air 24 hours a day, 7 days a week. It broadcasts programmes in Telugu language, including music, talk shows and much more"
+        },
+        {
+            "name": "Radio Sai FM Telugu",
+            "streamURL": "http://stream.radiosai.org:8020/asiastreamfortelugu",
+            "imageURL": "radio-sai.png",
+            "desc": "",
+            "longDesc": "This is a very popular online radio station that is on air 24 hours a day, 7 days a week. It broadcasts programmes in Telugu language, including music, talk shows and much more"
+        },
+        {
+            "name": "Manasu Tho Emotional Songs",
+            "streamURL": "http://85.25.95.17:8008/stream/1/",
+            "imageURL": "emotional-song.png",
+            "desc": "",
+            "longDesc": "Manasu Tho is a global platform that broadcasts online 24 hours a day, 7 days a week. Its contents focus mostly on romantic music, which is featured through various different radio channels that the listener can choose"
+        }
+        ,
+        {
+            "name": "Radio9 Telugu",
+            "streamURL": "http://64.150.176.42:8166/stream/1/",
+            "imageURL": "radio9-telugu.png",
+            "desc": "",
+            "longDesc": "Established in 2012, this is a web radio station broadcasting from United Arab Emirates in Telugu language. Its mission is to promote the language, traditions and culture among the Indian and NRI."
+        }
+        ,
      {
-     "name": "Telugu One Radio",
-     "streamURL": "http://173.203.133.187:9700/stream/1/",
-     "imageURL": "telugu-one.png",
-     "desc": "",
-     "longDesc": "This is a very popular online radio station that is on air 24 hours a day, 7 days a week. It broadcasts programmes in Telugu language, including music, talk shows and much more"
+         "name": "Gelupu Telugu FM",
+         "streamURL": "http://s7.voscast.com:7586/;",
+         "imageURL": "gelupuradio.png",
+         "desc": "",
+         "longDesc": "Gelupu is a Telugu radio having broadcasting from North america.Listen to Gelupu Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.Gelupu contains a huge variety of programs telcasing wonderful Hindi songs."
      },
      {
-         "name": "Radio Sai FM Telugu",
-         "streamURL": "http://stream.radiosai.org:8020/asiastreamfortelugu",
-         "imageURL": "radio-sai.png",
+         "name": "Nuke Telugu old hits",
+         "streamURL": "http://live.nukeradio.com:8012/stream3;",
+         "imageURL": "nuketeluguoldhits.png",
          "desc": "",
-         "longDesc": "This is a very popular online radio station that is on air 24 hours a day, 7 days a week. It broadcasts programmes in Telugu language, including music, talk shows and much more"
+         "longDesc": "Nuke Telugu old hits Radio is a Telugu radio having broadcasting from Telangana.Listen to Nuke Telugu old hits Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs."
      },
      {
-         "name": "Manasu Tho Emotional Songs",
-         "streamURL": "http://85.25.95.17:8008/stream/1/",
-         "imageURL": "emotional-song.png",
+         "name": "T 24 Radio Telangana",
+         "streamURL": "http://s6.voscast.com:10596/;",
+         "imageURL": "t24radio.png",
          "desc": "",
-         "longDesc": "Manasu Tho is a global platform that broadcasts online 24 hours a day, 7 days a week. Its contents focus mostly on romantic music, which is featured through various different radio channels that the listener can choose"
-     }
-     ,
+         "longDesc": "T 24 Radio is a Telugu radio having broadcasting from bayarea..Listen to T 24 Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.T 24 Radio contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
      {
-         "name": "Radio9 Telugu",
-         "streamURL": "http://64.150.176.42:8166/stream/1/",
-         "imageURL": "radio9-telugu.png",
+         "name": "Ghantasala Hits Telugu FM",
+         "streamURL": "http://prclive1.listenon.in:8822/;",
+         "imageURL": "ghantasalahits.png",
          "desc": "",
-         "longDesc": "Established in 2012, this is a web radio station broadcasting from United Arab Emirates in Telugu language. Its mission is to promote the language, traditions and culture among the Indian and NRI."
-     }
-     ,
+         "longDesc": "Ghantasala Hits is a Telugu radio having broadcasting from India.Listen to Ghantasala Hits Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.Ghantasala Hits contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
      {
-         "name": "Hyderabad Techies Radio",
-         "streamURL": "http://184.107.202.178:8010/;",
-         "imageURL": "hyderbad-techies.png",
+         "name": "Malaysia Telugu Radio",
+         "streamURL": "http://listen.radioking.com/radio/142831/stream/183013",
+         "imageURL": "malaysiateluguradio.png",
          "desc": "",
-         "longDesc": "Hyderabad Techies Radio is the techno musical blend along with Indian music. The radio has good mix of their local music where they mixes the best local music along with the greatest world techno music for the perfect blend of music and entertainment"
+         "longDesc": "Malaysia Telugu Radio station is a Telugu radio having broadcasting from Malaysia.Listen to Malaysia Telugu Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.Malaysia Telugu Radio contains a huge variety of programs telcasing wonderful Hindi songs"
+     },
+     {
+         "name": "NEC FM Radio",
+         "streamURL": "http://s2.voscast.com:10382/;",
+         "imageURL": "necfm.png",
+         "desc": "",
+         "longDesc": "EC FM Radio is a Telugu radio having broadcasting from Telangana.NEC FM ONLINE RADIO IS A RADIO STATION BROADCASTING IN TELUGU LANGUAGE, BY THE STUDENTS OF NARASARAOPETA ENGINEERING COLLEGE, NARASARAOPETA.Listen to NEC FM Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs."
      }
     ]
 }

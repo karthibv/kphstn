@@ -25,11 +25,11 @@
      }
      ,
      {
-         "name": "Rainbow Bengaluru",
-         "streamURL": "http://falcon.shoutca.st:8058/stream",
-         "imageURL": "rainbowbengalurukannada.png",
+         "name": "Nagumoga Kannada",
+         "streamURL": "http://radio.nagumoga.net/kannada",
+         "imageURL": "nagumogaradio.png",
          "desc": "",
-         "longDesc": "Rainbow Bengaluru is a Kannada FM radio station broadcasting from India. Listen to Rainbow Bengaluru Kannada radio to listen to your favorite Kannada songs and top Kannada songs. Rainbow Bengaluru radio station covers many variety programs broadcasting the best Kannada songs and best shows from your favorite DJs"
+         "longDesc": "Nagumoga is a Kannada radio having broadcasting from karnataka.Listen to Nagumoga Kannada FM to listen to your favorite kannada songs and top bollywood songs.Nagumoga contains a huge variety of programs telcasing wonderful kannada songs."
      } ,
      {
          "name": "DR RajKumar Hits",
@@ -39,11 +39,32 @@
          "longDesc": "DR Rajkumar Hits is a Kannada FM radio station broadcasting from India. Listen to DR Rajkumar Hits Kannada radio to listen to your favorite Kannada songs and top Kannada songs."
      },
      {
-         "name": "Ragam Radio",
-         "streamURL": "http://andromeda.shoutca.st:8312/stream",
-         "imageURL": "raagamkannada.png",
+         "name": "Mirchi kannada hits",
+         "streamURL": "https://kannadahits-lh.akamaihd.net/i/kannadahits_1@492837/master.m3u8",
+         "imageURL": "kannadahits.png",
          "desc": "",
-         "longDesc": "Raagam is a Kannada FM radio station broadcasting from India. Listen to Raagam Kannada radio to listen to your favorite Kannada songs and top Kannada songs"
+         "longDesc": "Mirchi kannada hits is a Kannada radio having broadcasting from karnataka.Listen to Mirchi kannada hits Kannada FM to listen to your favorite kannada songs and top bollywood songs.Mirchi kannada hits contains a huge variety of programs telcasing wonderful kannada songs."
+     },
+     {
+         "name": "Radio Sarang Kannada",
+         "streamURL": "http://radiosarang.com:4048/Sarang",
+         "imageURL": "radiosarang.png",
+         "desc": "",
+         "longDesc": "Radio sarang is a Kannada radio having broadcasting from karnataka.Listen to radio sarang Kannada FM to listen to your favorite kannada songs and top bollywood songs.radio sarang contains a huge variety of programs telcasing wonderful kannada songs.Tune to radio sarang listen now."
+     },
+     {
+         "name": "Namm Radio Kannada",
+         "streamURL": "http://stream.zenolive.com/6quh1pfnt1duv",
+         "imageURL": "nammradio.png",
+         "desc": "",
+         "longDesc": "Namm radio is a Kannada radio having broadcasting from India.Listen to Namm radio Kannada FM to listen to your favorite kannada songs and top bollywood songs.Namm radio contains a huge variety of programs telcasing wonderful kannada songs."
+     },
+     {
+         "name": "Shalom Beats Radio",
+         "streamURL": "http://stream.zenolive.com/6quh1pfnt1duv",
+         "imageURL": "shalombeatsradio.png",
+         "desc": "",
+         "longDesc": "Shalom beats radio is a Kannada radio having broadcasting from karnataka.Listen to Shalom beats radio Kannada FM to listen to your favorite kannada songs and top bollywood songs.Shalom beats radio contains a huge variety of programs telcasing wonderful kannada songs."
      }
     ]
 }

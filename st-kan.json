@@ -25,13 +25,6 @@
      }
      ,
      {
-         "name": "Nagumoga Kannada",
-         "streamURL": "http://radio.nagumoga.net/kannada",
-         "imageURL": "nagumogaradio.png",
-         "desc": "",
-         "longDesc": "Nagumoga is a Kannada radio having broadcasting from karnataka.Listen to Nagumoga Kannada FM to listen to your favorite kannada songs and top bollywood songs.Nagumoga contains a huge variety of programs telcasing wonderful kannada songs."
-     } ,
-     {
          "name": "DR RajKumar Hits",
          "streamURL": "http://prclive1.listenon.in:8826/;",
          "imageURL": "rajjumarhits.png",
@@ -61,10 +54,31 @@
      },
      {
          "name": "Shalom Beats Radio",
-         "streamURL": "http://stream.zenolive.com/6quh1pfnt1duv",
+         "streamURL": "http://rd.shalombeatsradio.com:8090/stream",
          "imageURL": "shalombeatsradio.png",
          "desc": "",
          "longDesc": "Shalom beats radio is a Kannada radio having broadcasting from karnataka.Listen to Shalom beats radio Kannada FM to listen to your favorite kannada songs and top bollywood songs.Shalom beats radio contains a huge variety of programs telcasing wonderful kannada songs."
-     }
+     },
+     {
+         "name": "Amruthavarshini bengaluru ",
+         "streamURL": "http://104.237.4.164:8000/stream2_autodj",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/airkannada.jpg",
+         "desc": "",
+         "longDesc": "Amruthavarshini is a Kannada radio having broadcasting from karnataka.Listen to Amruthavarshini Kannada FM to listen to your favorite kannada songs and top bollywood songs.Amruthavarshini contains a huge variety of programs telcasing wonderful kannada songs."
+     } ,
+     {
+         "name": "Hand of jesus FM",
+         "streamURL": "http://66.55.145.43:7568/stream",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/handofjesus.jpg",
+         "desc": "",
+         "longDesc": "Hand of jesus FM is a Kannada radio having broadcasting from karnataka.Listen to Hand of jesus FM Kannada FM to listen to your favorite kannada songs and top bollywood songs.Hand of jesus FM contains a huge variety of programs telcasing wonderful kannada songs."
+     } ,
+     {
+         "name": "S FM Kannada",
+         "streamURL": "http://212.83.150.15:8261/;stream.mp3",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/sfm.jpg",
+         "desc": "",
+         "longDesc": "S FM  is a Kannada  radio having broadcasting from karnataka.Listen to S FM Kannada FM to listen to your favorite kannada songs and top bollywood songs.S FM  contains a huge variety of programs telcasing wonderful kannada songs."
+     } 
     ]
 }

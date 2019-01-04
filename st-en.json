@@ -77,6 +77,41 @@
          "imageURL": "Insomniafm.png",
          "desc": "",
          "longDesc": "Insomnia Fm offers a free platform to promote various shows to provide DJ’s & Producers Careers.The shows are available for free streaming at 128 kbps, and also for download by becoming an subscriber, with more than 200 exclusive radio shows!We also provide a monthly InsomniaFM Podcast and a weekly Mix of the Week."
+     },
+     {
+         "name": "BBC Radio 1",
+         "streamURL": "https://a.files.bbci.co.uk//media//live//manifesto//audio//simulcast//hls//nonuk//low//ak//bbc_radio_one.m3u8",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/bbc-radio-1.png",
+         "desc": "",
+         "longDesc": "BBC Radio 1 is a British radio station operated by the British Broadcasting Corporation which also broadcasts internationally, specialising in modern popular music and current chart hits throughout the day. Radio 1 provides alternative genres after 7 pm, including electronica, dance, hip hop, rock and indie"
+     },
+     {
+        "name": "BBC Radio 5 Live",
+        "streamURL": "https://a.files.bbci.co.uk//media//live//manifesto//audio//simulcast//hls//nonuk//low//ak//bbc_radio_five_live.m3u8",
+        "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/bbc-radio-5-live.png",
+        "desc": "",
+        "longDesc": "BBC Radio 5 Live is the BBC's national radio service that broadcasts mainly news, sport, discussion, interviews and phone-ins. It is the principal radio station covering sport in the United Kingdom, broadcasting virtually all major sports events staged in the UK or involving British competitors"
+    },
+     {
+         "name": "The Arrow UK",
+         "streamURL": "http://media-ice.musicradio.com/Arrow.m3u",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/the-arrow-uk.png",
+         "desc": "",
+         "longDesc": "The Arrow is a British digital radio station playing classic and contemporary rock music. It broadcasts on DAB Digital Radio and is also streamed over digital satellite TV and online. The station is operated by Global; prior to Global's formation it was owned by their predecessor Chrysalis Radio"
+     },
+     {
+         "name": "Classic FM UK",
+         "streamURL": "http://vis.media-ice.musicradio.com//ClassicFMMP3",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/classic-fm-uk.png",
+         "desc": "",
+         "longDesc": "Classic FM is one of the United Kingdom's three Independent National Radio stations. The station broadcasts classical music."
+     },
+     {
+         "name": "The Breeze 107.4 FM",
+         "streamURL": "https://stream2.celador.co.uk//breeze-newbury-96.aac",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/the-breeze-107-4-fm-newbury.png",
+         "desc": "",
+         "longDesc": "The Breeze is an Independent Local Radio station serving Newbury and West Berkshire. The station is owned & operated by Celador Radio and is part of The Breeze network of stations. It broadcasts from studios at Eastgate House in Andover"
      }
     ]
 }

@@ -135,6 +135,21 @@
          "desc": "",
          "longDesc": "adio olive 106.3 FM is a Hindi Fm radio having broadcasting from Qator.Zindagi na milegi Dobara, here comes Radio Olive 106.3 FM to complete your entertainment level by offering you people an amazing cheerful life. Approximately 60% people lend their ears to a wide world of Hindi music which can tickle your past and brings a smile on your face. Listen to Radio olive 106.3 FM Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Radio olive 106.3 FM contains a huge variety of programs telcasing wonderful Hindi songs."
      },
+     
+     {
+         "name": "Lyca Dilse Hindi FM",
+         "streamURL": "http://icy-e-01-cr.sharp-stream.com/1035.mp3",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/lycadilse.jpg",
+         "desc": "",
+         "longDesc": "Lyca Dilse is a Hindi Fm radio having broadcasting from Los angels.Listen to Lyca Dilse Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Lyca Dilse contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+        "name": "Lyca radio Hindi FM",
+        "streamURL": "http://tx.sharp-stream.com/http_live.php?i=1458.mp3",
+        "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/lycaradio.jpg",
+        "desc": "",
+        "longDesc": "Lyca radio is a Hindi Fm radio having broadcasting from UK..Listen to Lyca radio Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Lyca radio contains a huge variety of programs telcasing wonderful Hindi songs."
+    },
      {
          "name": "Udit Narayan Hindi",
          "streamURL": "http://192.227.116.104:4182/autodj",
@@ -175,9 +190,22 @@
          "streamURL": "http://radio.drifthosters.com:8888/;",
          "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/musiclivefm.jpg",
          "desc": "",
-         "longDesc": "Music Live FM is a Hindi Fm radio having broadcasting from India Welcome to Music Live Fm Radio. Music Live Fm Radio (The Music begins Here) Treat to you heart and to your ears Introducing Music Live Fm Radio Indo-Pak Friendly Radio is a platform to gather people Who Love Music Fun & entertainment from all around the world.."
+         "longDesc": "Music Live FM is a Hindi Fm radio having broadcasting from India Welcome to Music Live Fm Radio. Music Live Fm Radio (The Music begins Here) Treat to you heart and to your ears Introducing Music Live Fm Radio Indo-Pak Friendly Radio is a platform to gather people Who Love Music Fun & entertainment from all around the world."
+     },
+     {
+         "name": "Radio garam masala",
+         "streamURL": "http://69.175.94.98:8146/;",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/radiogarammasala.jpg",
+         "desc": "",
+         "longDesc": "Radio garam masala  is a Hindi Fm radio having broadcasting from Los angels.Listen to Radio garam masala Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Radio garam masala  contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+         "name": "Fun Asia Hindi",
+         "streamURL": "http://funasia.streamguys1.com/live-1",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/funasia.jpg",
+         "desc": "",
+         "longDesc": "Fun Asia is a Hindi Fm radio having broadcasting from Los angels.Listen to Fun Asia Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Fun Asia contains a huge variety of programs telcasing wonderful Hindi songs."
      }
-     
 
     ]
 }

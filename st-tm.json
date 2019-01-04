@@ -43,7 +43,14 @@
      "imageURL": "illayarajafm.png",
      "desc": "On the air Ilayaraja Radio",
      "longDesc": "Ilaiyaraaja (born Gnanadesikan on 3 June 1943) is an Indian film composer, singer, and lyricist mainly in the Tamil film Industry and Telugu u Film Industry. He is regarded as one of the finest music composers in India. Ilaiyaraaja is also an instrumentalist, conductor, and a songwriter. To date, he has composed over 4500 songs and provided film scores for more than 950 Indian films in various languages in a career spanning more than 30 years"
-     }
+     },
+     {
+        "name": "Ilayaraja Lite Radio",
+        "streamURL": "http://southradios.net:9090/ilayarajaliteradio",
+        "imageURL": "illayarajafm.png",
+        "desc": "On the air Ilayaraja Radio",
+        "longDesc": "Ilayaraja Lite Radio radio is a tamil radio  broadcasting from India.Tune to Ilayaraja Lite Radio tamil radio to listen to your favorite tamil songs and top kollywood songs.Ilayaraja Lite Radio contains a huge variety of programs telcasing wonderful tamil songs."
+        }
      ,
      {
      "name": "A.R. Rahman Radio Tamil",
@@ -60,6 +67,33 @@
      "desc": "",
      "longDesc": "Geetham Tamil Radio listener means a lot, the station wants to present themselves as a station listeners should be happy of. They build a great unity between the listeners and themselves so that they may have a good communication between them and their listeners which will result in a more entertainment rich radio station."
      },
+     {
+        "name": "Geetham Old Songs",
+        "streamURL": "http://www.geethamradio.com:8020/old_hifi.mp3",
+        "imageURL": "geethamradio.png",
+        "desc": "",
+        "longDesc": "Geetham old songs Radio radio is a tamil radio broadcasting from India.Tune to Geetham old songs Radio tamil radio to listen to your favorite tamil songs and top kollywood songs.Geetham old songs Radio contains a huge variety of programs telcasing wonderful tamil songs"
+    },
+    {
+            "name": "Geetham 80s songs",
+            "streamURL": "http://www.geethamradio.com:8020/80s_lofi.mp3",
+            "imageURL": "geethamradio.png",
+            "desc": "",
+            "longDesc": "Geetham 80s songs channel radio  is a tamil radio  broadcasting from India.Tune to geetham 80s songs channel radio tamil radio to listen to your favorite tamil songs and top kollywood songs.geetham 80s songs channel radio contains a huge variety of programs telcasing wonderful tamil songs"
+     },
+     {
+        "name": "Geetham New songs",
+        "streamURL": "http://www.geethamradio.com:8020/new_hifi.mp3",
+        "imageURL": "geethamradio.png",
+        "desc": "",
+        "longDesc": "Geetham New songs channel radio  is a tamil radio  broadcasting from India.Tune to geetham New songs channel radio tamil radio to listen to your favorite tamil songs and top kollywood songs.geetham New songs channel radio contains a huge variety of programs telcasing wonderful tamil songs"
+    },{
+        "name": "Geetham Party songs",
+        "streamURL": "http://www.geethamradio.com:8020/party_hifi.mp3",
+        "imageURL": "geethamradio.png",
+        "desc": "",
+        "longDesc": "Geetham Party songs channel radio  is a tamil radio  broadcasting from India.Tune to geetham party songs channel radio tamil radio to listen to your favorite tamil songs and top kollywood songs.geetham party songs channel radio contains a huge variety of programs telcasing wonderful tamil songs"
+    },
      {
      "name": "Radio Red FM Tamil",
      "streamURL": "http://192.99.35.93:6130/;stream.mp3",
@@ -281,6 +315,41 @@
          "imageURL": "palaiyapaadalradio.png",
          "desc": "",
          "longDesc": "Palaiya Paadal Radio radio is a tamil radio broadcasting from India.Tune to Palaiya Paadal Radio tamil radio to listen to your favorite tamil songs and top kollywood songs.Palaiya Paadal Radio contains a huge variety of programs telcasing wonderful tamil songs."
-     }
+     },
+     {
+         "name": "Puthu padal radio",
+         "streamURL": "http://southradios.net:9090/pudhupaadalradio",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/puthupadalradio.jpg",
+         "desc": "",
+         "longDesc": "Puthu padal radio radio is a tamil radio  broadcasting from India.Tune to Puthu padal radio tamil radio to listen to your favorite tamil songs and top kollywood songs.Puthu padal radio contains a huge variety of programs telcasing wonderful tamil songs"
+     },
+     {
+         "name": "Vijay radio online",
+         "streamURL": "http://192.227.116.104:4077/autodj",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/vijaytamilradio.jpg",
+         "desc": "",
+         "longDesc": "Vijay radio radio is a tamil radio broadcasting from India.Tune to Vijay radio tamil radio to listen to your favorite tamil songs and top kollywood songs.Vijay radio contains a huge variety of programs telcasing wonderful tamil songs"
+     },
+     {
+         "name": "Ajith FM online",
+         "streamURL": "http://192.227.116.104:4078/autodj",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ajithtamilfm.jpg",
+         "desc": "",
+         "longDesc": "Ajith FM radio is a tamil radio broadcasting from India.Tune to Ajith FM tamil radio to listen to your favorite tamil songs and top kollywood songs.Ajith FM contains a huge variety of programs telcasing wonderful tamil songs."
+     },
+     {
+        "name": "Raja Radio Online",
+        "streamURL": "http://live.tamilkuyilradio.com:8026/rajaradio",
+        "imageURL": "illayarajafm.png",
+        "desc": "",
+        "longDesc": "Raja Radio radio is a tamil radio broadcasting from India.Tune to Raja Radio tamil radio to listen to your favorite tamil songs and top kollywood songs.Raja Radio contains a huge variety of programs telcasing wonderful tamil songs"
+        },
+        {
+            "name": "Mohan Hits online",
+            "streamURL": "http://192.227.116.104:4104/autodj",
+            "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/mohanhits.jpg",
+            "desc": "",
+            "longDesc": "Mohan Hits radio is a tamil radio broadcasting from India.Tune to Mohan Hits tamil radio to listen to your favorite tamil songs and top kollywood songs.Mohan Hits contains a huge variety of programs telcasing wonderful tamil songs."
+        }
     ]
 }

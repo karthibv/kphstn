@@ -26,28 +26,28 @@
          "name": "BBC world servie FM",
          "streamURL": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
          "imageURL": "bbcworldservice.png",
-         "desc": "Music hits",
+         "desc": "",
          "longDesc": "BBC world servie  is a English Fm radio having broadcasting from London.Listen to BBC world servie English FM to listen to your favorite English songs and top kollywood songs.BBC world servie  contains a huge variety of programs telcasing wonderful English songs."
      },
      {
          "name": "All Hit Radio English",
          "streamURL": "http://zas1.ndx.co.za:8124/;listen.mp3",
          "imageURL": "allhitradio.png",
-         "desc": "Music hits",
+         "desc": "",
          "longDesc": "All Hit Radio  is a English Fm radio having broadcasting from southafrica .Listen to All Hit Radio English FM to listen to your favorite English songs and top kollywood songs.All Hit Radio  contains a huge variety of programs telcasing wonderful English songs"
      },
      {
          "name": "94.7 FM Hits English",
          "streamURL": "http://ice66.securenetsystems.net/WYUL2",
          "imageURL": "947fmhits.png",
-         "desc": "Music hits",
+         "desc": "",
          "longDesc": "94.7 FM Hits  is a English Fm radio having broadcasting from srilanka brocasting at .Listen to 94.7 FM Hits English FM to listen to your favorite English songs and top kollywood songs.94.7 FM Hits  contains a huge variety of programs telcasing wonderful English songs"
      },
      {
          "name": "Diamond FM English",
          "streamURL": "http://zas1.ndx.co.za:8170/;listen.mp3",
          "imageURL": "diamondfm.png",
-         "desc": "Music hits",
+         "desc": "",
          "longDesc": "Diamond FM  is a English Fm radio having broadcasting from Africa .Listen to Diamond FM English FM to listen to your favorite English songs and top kollywood songs.Diamond FM  contains a huge variety of programs telcasing wonderful English songs"
      },
      {
@@ -68,7 +68,7 @@
          "name": "A BIG HitZ Radio",
          "streamURL": "http://listen.radionomy.com/a-big-hitz-radio",
          "imageURL": "abighitz.png",
-         "desc": "unconventional music",
+         "desc": "Unconventional music",
          "longDesc": "A BIG HitZ Radio is Hit Music and commercial free all day long. We are not your conventional music station. It is an unconventional music station that streams music 24/7 via the Internet. "
      },
      {

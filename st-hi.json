@@ -134,7 +134,50 @@
          "imageURL": "radioolive.png",
          "desc": "",
          "longDesc": "adio olive 106.3 FM is a Hindi Fm radio having broadcasting from Qator.Zindagi na milegi Dobara, here comes Radio Olive 106.3 FM to complete your entertainment level by offering you people an amazing cheerful life. Approximately 60% people lend their ears to a wide world of Hindi music which can tickle your past and brings a smile on your face. Listen to Radio olive 106.3 FM Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Radio olive 106.3 FM contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+         "name": "Udit Narayan Hindi",
+         "streamURL": "http://192.227.116.104:4182/autodj",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/uditnarayan.jpg",
+         "desc": "",
+         "longDesc": "Udit Narayan is a Hindi music radio having broadcasting from India.Listen to Udit Narayan Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Udit Narayan contains a huge variety of programs telcasing wonderful Hindi songs.."
+     },
+     {
+         "name": "Arijit Singh Hindi",
+         "streamURL": "http://southradios.net:9090/arijitsinghradio",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/arijitsingh.jpg",
+         "desc": "",
+         "longDesc": "Arijit Singh is a Hindi Fm radio having broadcasting from India.Listen to Arijit Singh Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Arijit Singh contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+         "name": "Josh FM ",
+         "streamURL": "http://stream.zenolive.com/cm1fkgbv1ceuv",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/joshfm.jpg",
+         "desc": "",
+         "longDesc": "Josh FM is a Hindi Fm radio having broadcasting from Dubai.Listen to Josh FM Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Josh FM contains a huge variety of programs telcasing wonderful Hindi songs."
+     },
+     {
+         "name": "Aakashvani FM ",
+         "streamURL": "http://media.guardian.co.tt:8000/aakashvaniradio",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/aakashvani.jpg",
+         "desc": "",
+         "longDesc": "Aakashvani FM is a Hindi Fm radio having broadcasting from Spain brodcasting at 106.5mhz.Listen to Aakashvani FM Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Aakashvani FM contains a huge variety of programs telcasing wonderful Hindi songs.Tune to Aakashvani FM listen now."
+     },
+     {
+         "name": "Radio City Hip Hop",
+         "streamURL": "http://prclive1.listenon.in:9292/",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/radiocityhiphop.jpg",
+         "desc": "",
+         "longDesc": "Radio City Hip Hop is a Hindi Fm radio having broadcasting from India.Listen to Radio City Hip Hop Hindi FM to listen to your favorite Hindi songs and top bollywood songs.Radio City Hip Hop contains a huge variety of programs telcasing wonderful Hindi songs.Tune to Radio City Hip Hop listen now."
+     },
+     {
+         "name": "Music Live FM",
+         "streamURL": "http://radio.drifthosters.com:8888/;",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/musiclivefm.jpg",
+         "desc": "",
+         "longDesc": "Music Live FM is a Hindi Fm radio having broadcasting from India Welcome to Music Live Fm Radio. Music Live Fm Radio (The Music begins Here) Treat to you heart and to your ears Introducing Music Live Fm Radio Indo-Pak Friendly Radio is a platform to gather people Who Love Music Fun & entertainment from all around the world.."
      }
      
+
     ]
 }

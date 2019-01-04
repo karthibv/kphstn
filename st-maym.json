@@ -125,6 +125,49 @@
          "imageURL": "malayalamhits.png",
          "desc": "",
          "longDesc": "Malayalam Hits is a malayalam radio having broadcasting from London.Listen to Malayalam Hits malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Malayalam Hits contains a huge variety of programs telcasing wonderful malayalam songs."
+     },
+     {
+         "name": "Radio Suno",
+         "streamURL": "http://20103.live.streamtheworld.com/SUNO917.mp3",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/radiosuno.png",
+         "desc": "",
+         "longDesc": "Radio suno  is a malayalam  radio having broadcasting from Qatar. Suno 91.7 FM arrives. Malayali community in the country will never miss their home town, as we bring every tiny bit of love from God’s own country. As society considers, Malayali’s have their footprints everywhere in this world. Let’s start a voyage of good memories with magical music compositions – Kettu Kettu Kootu KoodamListen to Radio suno malayalam FM to listen to your favorite Malayalam songs and top kollywood songs"
+     },
+     {
+         "name": "Radio Asia Malayalam",
+         "streamURL": "http://50.7.71.27:9699/;stream.mp3",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/radioasiauae.jpg",
+         "desc": "",
+         "longDesc": "Radio Asia is a malayalam Fm radio having broadcasting from UAE.Listen to radio asia malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Radio asia contains a huge variety of programs telcasing wonderful malayalam songs."
+     },
+     {
+         "name": "Mohanlal hits Online",
+         "streamURL": "http://192.227.116.104:4160/autodj",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/mohanlal.jpg",
+         "desc": "",
+         "longDesc": "Mohanlal hits is a malayalam radio having broadcasting from London.Listen to Mohanlal hits malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Mohanlal hits contains a huge variety of programs telcasing wonderful malayalam songs."
+     },
+     {
+         "name": "Malayali Radio",
+         "streamURL": "http://91.121.164.210:8464/;",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/malayaliradio.jpg",
+         "desc": "",
+         "longDesc": "Malayali Radio  is a malayalam  radio having broadcasting from London.Listen to Malayali Radio malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Malayali Radio  contains a huge variety of programs telcasing wonderful malayalam songs."
+     },
+     {
+         "name": "Radio Maria Malayalam",
+         "streamURL": "http://dreamsiteradiocp.com:8002/;",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/radiomaria.jpg",
+         "desc": "",
+         "longDesc": "Radio Maria is a malayalam radio having broadcasting from London.Listen to Radio Maria malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Radio Maria contains a huge variety of programs telcasing wonderful malayalam songs."
+     },
+     {
+         "name": "Peace Radio Malayalam",
+         "streamURL": "http://stream.peaceradio.com:8000/high",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/peaceradio.jpg",
+         "desc": "",
+         "longDesc": "Peace Radio is a malayalam radio having broadcasting from Kerala.Listen to Peace Radio malayalam FM to listen to your favorite Malayalam songs and top kollywood songs.Peace Radio contains a huge variety of programs telcasing wonderful malayalam songs."
      }
     ]
 }
+

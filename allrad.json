@@ -1,0 +1,176 @@
+{
+    "music": [
+        {
+            "title": "Planet Radio City",
+            "source": "http://prclive1.listenon.in:9948/",
+            "image": "https://dl.dropboxusercontent.com/s/k6rzcyn0382jaa1/RadioCity.jpg?dl=0",
+            "trackNumber": 5,
+            "genre" : "Tamil Radio"
+
+        },
+        {
+            "title": "Mukil App FM",
+            "source": "http://streaming.shoutcast.com/MUKILFMRADIO",
+            "image": "",
+            "trackNumber": 7,
+            "genre" : "Tamil Radio"
+        },
+        {
+            "title": "ARR Radio",
+            "source": "http://212.83.138.48:8328/;",
+            "image": "https://i.scdn.co/image/c73126f6a1107e7c098618f022a2c86f17ec7747",
+            "trackNumber": 2,
+            "genre" : "Hindi Radio"
+
+        },
+        {
+            "title": "Ilayaraja Radio",
+            "source": "http://212.83.138.48:8324/;",
+            "image": "http://c.saavncdn.com/artists/Ilaiyaraaja.jpg",
+            "trackNumber": 3,
+            "genre" : "Hindi Radio"
+
+        },
+        {
+            "title": "Tamil Top-40 Radio",
+            "source": "http://212.83.138.48:8336/;",
+            "image": "",
+            "trackNumber": 4,
+            "genre" : "Tamil Radio"
+
+        },
+        {
+            "title": "8K Radio",
+            "source": "http://17333.live.streamtheworld.com/RADIO_TAMIL_EST_128.mp3",
+            "image": "https://dl.dropboxusercontent.com/s/izck5rbp3aydp9a/8k.png?dl=0",
+            "trackNumber": 5,
+            "genre" : "Telugu Radio"
+        },
+        {
+            "title": "Radio Mirchi",
+            "source": "http://164.132.63.75:9994/;stream.mp3",
+            "image": "",
+            "trackNumber": 999,
+            "genre" : "Telugu Radio"
+
+        },
+        {
+            "title": "Tamil Lite Radio",
+            "source": "http://212.83.138.48:8348/;",
+            "image": "",
+            "trackNumber": 6,
+            "genre" : "kannada Radio"
+
+        },
+        {
+            "title": "K.J.Yesudas Radio",
+            "source": "http://66.55.145.43:7834/;",
+            "image": "http://c.saavncdn.com/artists/K.J._Yesudas.jpg",
+            "trackNumber": 999,
+            "genre" : "kannada Radio"
+
+        },
+        {
+            "title": "Yuvan Radio",
+            "source": "http://212.83.138.48:8360/;",
+            "image": "http://c.saavncdn.com/artists/Yuvan_Shankar_Raja.jpg",
+            "trackNumber": 7,
+            "genre" : "kannada Radio"
+        },
+        {
+            "title": "Puradsi FM",
+            "source": "http://www.puradsifm.net:9994/",
+            "image": "",
+            "trackNumber": 9,
+            "genre" : "malayalam Radio"
+        },
+        {
+            "title": "Raaja FM",
+            "source": "http://108.166.161.221:7154/;stream.mp3",
+            "image": "http://c.saavncdn.com/artists/Ilaiyaraaja.jpg",
+            "trackNumber": 999,
+            "genre" : "malayalam Radio"
+
+        },
+        {
+            "title": "Lankasri FM",
+            "source": "http://media2.lankasri.fm/;",
+            "image": "",
+            "trackNumber": 11,
+            "genre" : "malayalam Radio"
+
+        },
+        {
+            "title": "Kalasam FM",
+            "source": "http://streaming.shoutcast.com/Kalasamcom?lang=en-US%2cen%3bq%3d0.8",
+            "image": "",
+            "trackNumber": 12,
+            "genre" : "Tamil Radio"
+
+        },
+        {
+            "title": "Tamil Sun FM",
+            "source": "http://192.99.4.210:3596/;",
+            "image": "",
+            "trackNumber": 999,
+            "genre" : "Hindi Radio"
+
+        },
+        {
+            "title": "Vanavil FM",
+            "source": "http://s1.vanavilfm.com:9000/;",
+            "image": "",
+            "trackNumber": 14,
+            "genre" : "Telugu Radio"
+
+        },
+        {
+            "title": "SPB Radio",
+            "source": "http://212.83.138.48:8344/;",
+            "image": "http://c.saavncdn.com/artists/S_P_Balasubrahmanyam.jpg",
+            "trackNumber": 8,
+            "genre" : "malayalam Radio"
+
+        },
+        {
+            "title": "Harris Jayaraj Radio",
+            "source": "http://212.83.138.48:8352/;",
+            "image": "http://c.saavncdn.com/artists/Harris_Jayaraj.jpg",
+            "trackNumber": 8,
+            "genre" : "Hindi Radio"
+
+        },
+        {
+            "title": "TamilOne Radio CH",
+            "source": "http://www.tamilone.ch:8000/stream_128",
+            "image": "",
+            "trackNumber": 17,
+            "genre" : "malayalam Radio"
+
+        },
+        {
+            "title": "Illayaraja Lite FM",
+            "source": "http://212.83.138.48:8340/;",
+            "image": "http://c.saavncdn.com/artists/Ilaiyaraaja.jpg",
+            "trackNumber": 8,
+            "genre" : "Tamil Radio"
+
+        },
+        {
+            "title": "Puthu Paadal Radio",
+            "source": "http://streaming.radionomy.com/ppr-radios",
+            "image": "",
+            "trackNumber": 999,
+            "genre" : "Tamil Radio"
+
+        },
+        {
+            "title": "ARR Lite Radio",
+            "source": "http://212.83.138.48:8332",
+            "image": "https://i.scdn.co/image/c73126f6a1107e7c098618f022a2c86f17ec7747",
+            "trackNumber": 4,
+            "genre" : "Tamil Radio"
+
+        }
+    ]
+}

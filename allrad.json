@@ -1,159 +1,6 @@
 {
     "music": [
-        {
-            "title": "Planet Radio City",
-            "source": "http://prclive1.listenon.in:9948/",
-            "image": "https://dl.dropboxusercontent.com/s/k6rzcyn0382jaa1/RadioCity.jpg?dl=0",
-            "trackNumber": 1,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Mukil App FM",
-            "source": "http://streaming.shoutcast.com/MUKILFMRADIO",
-            "image": "",
-            "trackNumber": 2,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "ARR Radio",
-            "source": "http://212.83.138.48:8328/;",
-            "image": "https://i.scdn.co/image/c73126f6a1107e7c098618f022a2c86f17ec7747",
-            "trackNumber": 3,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Ilayaraja Radio",
-            "source": "http://212.83.138.48:8324/;",
-            "image": "http://c.saavncdn.com/artists/Ilaiyaraaja.jpg",
-            "trackNumber": 4,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Tamil Top-40 Radio",
-            "source": "http://212.83.138.48:8336/;",
-            "image": "",
-            "trackNumber": 5,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "8K Radio",
-            "source": "http://17333.live.streamtheworld.com/RADIO_TAMIL_EST_128.mp3",
-            "image": "https://dl.dropboxusercontent.com/s/izck5rbp3aydp9a/8k.png?dl=0",
-            "trackNumber": 6,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Radio Mirchi",
-            "source": "http://164.132.63.75:9994/;stream.mp3",
-            "image": "",
-            "trackNumber": 7,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Tamil Lite Radio",
-            "source": "http://212.83.138.48:8348/;",
-            "image": "",
-            "trackNumber": 8,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "K.J.Yesudas Radio",
-            "source": "http://66.55.145.43:7834/;",
-            "image": "http://c.saavncdn.com/artists/K.J._Yesudas.jpg",
-            "trackNumber": 9,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Yuvan Radio",
-            "source": "http://212.83.138.48:8360/;",
-            "image": "http://c.saavncdn.com/artists/Yuvan_Shankar_Raja.jpg",
-            "trackNumber": 10,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Puradsi FM",
-            "source": "http://www.puradsifm.net:9994/",
-            "image": "",
-            "trackNumber": 11,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Raaja FM",
-            "source": "http://108.166.161.221:7154/;stream.mp3",
-            "image": "http://c.saavncdn.com/artists/Ilaiyaraaja.jpg",
-            "trackNumber": 12,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Lankasri FM",
-            "source": "http://media2.lankasri.fm/;",
-            "image": "",
-            "trackNumber": 13,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Kalasam FM",
-            "source": "http://streaming.shoutcast.com/Kalasamcom?lang=en-US%2cen%3bq%3d0.8",
-            "image": "",
-            "trackNumber": 14,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Tamil Sun FM",
-            "source": "http://192.99.4.210:3596/;",
-            "image": "",
-            "trackNumber": 15,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Vanavil FM",
-            "source": "http://s1.vanavilfm.com:9000/;",
-            "image": "",
-            "trackNumber": 16,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "SPB Radio",
-            "source": "http://212.83.138.48:8344/;",
-            "image": "http://c.saavncdn.com/artists/S_P_Balasubrahmanyam.jpg",
-            "trackNumber": 17,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Harris Jayaraj Radio",
-            "source": "http://212.83.138.48:8352/;",
-            "image": "http://c.saavncdn.com/artists/Harris_Jayaraj.jpg",
-            "trackNumber": 18,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "TamilOne Radio CH",
-            "source": "http://www.tamilone.ch:8000/stream_128",
-            "image": "",
-            "trackNumber": 19,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Illayaraja Lite FM",
-            "source": "http://212.83.138.48:8340/;",
-            "image": "http://c.saavncdn.com/artists/Ilaiyaraaja.jpg",
-            "trackNumber": 20,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Puthu Paadal Radio",
-            "source": "http://streaming.radionomy.com/ppr-radios",
-            "image": "",
-            "trackNumber": 21,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "ARR Lite Radio",
-            "source": "http://212.83.138.48:8332",
-            "image": "https://i.scdn.co/image/c73126f6a1107e7c098618f022a2c86f17ec7747",
-            "trackNumber": 22,
-            "genre": "tamil_radio"
-        },
+        
         {
             "title": "Radio City Kannada",
             "source": "http://prclive1.listenon.in:8870/",
@@ -692,6 +539,364 @@
             "image": "teluguhits.png",
             "trackNumber": "14",
             "genre": "telugu_radio"
-        }
+        },
+        {
+            "title": "Planet Radio City",
+            "source": "http://prclive1.listenon.in:9948/",
+            "image": "https://dl.dropboxusercontent.com/s/k6rzcyn0382jaa1/RadioCity.jpg?dl=0",
+            "trackNumber": 1,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Mukil App FM",
+            "source": "http://streaming.shoutcast.com/MUKILFMRADIO",
+            "image": "",
+            "trackNumber": 2,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "ARR Radio",
+            "source": "http://212.83.138.48:8328/;",
+            "image": "https://i.scdn.co/image/c73126f6a1107e7c098618f022a2c86f17ec7747",
+            "trackNumber": 3,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Ilayaraja Radio",
+            "source": "http://212.83.138.48:8324/;",
+            "image": "http://c.saavncdn.com/artists/Ilaiyaraaja.jpg",
+            "trackNumber": 4,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Tamil Top-40 Radio",
+            "source": "http://212.83.138.48:8336/;",
+            "image": "",
+            "trackNumber": 5,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "8K Radio",
+            "source": "http://17333.live.streamtheworld.com/RADIO_TAMIL_EST_128.mp3",
+            "image": "https://dl.dropboxusercontent.com/s/izck5rbp3aydp9a/8k.png?dl=0",
+            "trackNumber": 6,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Radio Mirchi",
+            "source": "http://164.132.63.75:9994/;stream.mp3",
+            "image": "",
+            "trackNumber": 7,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Tamil Lite Radio",
+            "source": "http://212.83.138.48:8348/;",
+            "image": "",
+            "trackNumber": 8,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "K.J.Yesudas Radio",
+            "source": "http://66.55.145.43:7834/;",
+            "image": "http://c.saavncdn.com/artists/K.J._Yesudas.jpg",
+            "trackNumber": 9,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Yuvan Radio",
+            "source": "http://212.83.138.48:8360/;",
+            "image": "http://c.saavncdn.com/artists/Yuvan_Shankar_Raja.jpg",
+            "trackNumber": 10,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Puradsi FM",
+            "source": "http://www.puradsifm.net:9994/",
+            "image": "",
+            "trackNumber": 11,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Raaja FM",
+            "source": "http://108.166.161.221:7154/;stream.mp3",
+            "image": "http://c.saavncdn.com/artists/Ilaiyaraaja.jpg",
+            "trackNumber": 12,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Lankasri FM",
+            "source": "http://media2.lankasri.fm/;",
+            "image": "",
+            "trackNumber": 13,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Kalasam FM",
+            "source": "http://streaming.shoutcast.com/Kalasamcom?lang=en-US%2cen%3bq%3d0.8",
+            "image": "",
+            "trackNumber": 14,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Tamil Sun FM",
+            "source": "http://192.99.4.210:3596/;",
+            "image": "",
+            "trackNumber": 15,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Vanavil FM",
+            "source": "http://s1.vanavilfm.com:9000/;",
+            "image": "",
+            "trackNumber": 16,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "SPB Radio",
+            "source": "http://212.83.138.48:8344/;",
+            "image": "http://c.saavncdn.com/artists/S_P_Balasubrahmanyam.jpg",
+            "trackNumber": 17,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Harris Jayaraj Radio",
+            "source": "http://212.83.138.48:8352/;",
+            "image": "http://c.saavncdn.com/artists/Harris_Jayaraj.jpg",
+            "trackNumber": 18,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "TamilOne Radio CH",
+            "source": "http://www.tamilone.ch:8000/stream_128",
+            "image": "",
+            "trackNumber": 19,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Illayaraja Lite FM",
+            "source": "http://212.83.138.48:8340/;",
+            "image": "http://c.saavncdn.com/artists/Ilaiyaraaja.jpg",
+            "trackNumber": 20,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "Puthu Paadal Radio",
+            "source": "http://streaming.radionomy.com/ppr-radios",
+            "image": "",
+            "trackNumber": 21,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "ARR Lite Radio",
+            "source": "http://212.83.138.48:8332",
+            "image": "https://i.scdn.co/image/c73126f6a1107e7c098618f022a2c86f17ec7747",
+            "trackNumber": 22,
+            "genre": "tamil_radio"
+        },
+        {
+            "title": "UTHM Radio",
+            "source": "http://radio.uthm.edu.my:8000/live.mp3",
+            "image": "uthmradio.png",
+            "trackNumber": 1,
+            "genre": "malay_radio"
+        },
+        {
+            "title": "Kool FM 101.3",
+            "source": "http://mediaprima.rastream.com//mediaprima-koolfm",
+            "image": "kool-fm-101-3.png",
+            "trackNumber": 2,
+            "genre": "malay_radio"
+        },
+        {
+            "title": "Bapakku FM",
+            "source": "http://radio.bapakku.fm:8000/stream/1/",
+            "image": "bapakku-fm.png",
+            "trackNumber": 3,
+            "genre": "malay_radio"
+        },
+        
+        {
+            "title": "Mutiara FM 95.7",
+            "source": "https://dkmgz1nucppmx.cloudfront.net//rtm-ch039//playlist.m3u8",
+            "image": "mutiara-fm-95-7.png",
+            "trackNumber": 4,
+            "genre": "malay_radio"
+        },
+     {
+         "title": "Radio 988 FM",
+         "source": "http://starrfm.rastream.com/starrfm-988",
+         "image": "988fm.png",
+         "trackNumber": 5,
+         "genre": "malay_radio"
+        },
+        {
+            "title": "Gold 90.5FM",
+            "source": "https://18733.live.streamtheworld.com/GOLD905AAC.aac?dist=liveonlineradio",
+            "image": "gold905.png",
+            "trackNumber": 5,
+            "genre": "english_radio"
+        },
+            {
+                "title": "Red FM 107.8 FM",
+                "source": "http://shaincast.caster.fm:47830/listen.mp3",
+                "image": "red107.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "Class 95 FM",
+                "source": "https://19813.live.streamtheworld.com/CLASS95AAC.aac?dist=onlineradiobox",
+                "image": "class95.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "BBC world servie FM",
+                "source": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
+                "image": "bbcworldservice.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "All Hit Radio English",
+                "source": "http://zas1.ndx.co.za:8124/;listen.mp3",
+                "image": "allhitradio.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "94.7 FM Hits English",
+                "source": "http://ice66.securenetsystems.net/WYUL2",
+                "image": "947fmhits.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "Diamond FM English",
+                "source": "http://zas1.ndx.co.za:8170/;listen.mp3",
+                "image": "diamondfm.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "Dance FM English",
+                "source": "http://19113.live.streamtheworld.com:3690/DANCE_FM_SC",
+                "image": "dancefm.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "Kiss FM English",
+                "source": "http://s3.voscast.com:8404/;stream.mp3",
+                "image": "kissfmenglish.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "A BIG HitZ Radio",
+                "source": "http://listen.radionomy.com/a-big-hitz-radio",
+                "image": "abighitz.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "Insomnia FM",
+                "source": "http://635.cloudrad.io:8092/;",
+                "image": "Insomniafm.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "BBC Radio 1",
+                "source": "https://a.files.bbci.co.uk//media//live//manifesto//audio//simulcast//hls//nonuk//low//ak//bbc_radio_one.m3u8",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/bbc-radio-1.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+               "title": "BBC Radio 5 Live",
+               "source": "https://a.files.bbci.co.uk//media//live//manifesto//audio//simulcast//hls//nonuk//low//ak//bbc_radio_five_live.m3u8",
+               "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/bbc-radio-5-live.png",
+               "trackNumber": 5,
+               "genre": "english_radio"
+            },
+            {
+                "title": "The Arrow UK",
+                "source": "http://media-ice.musicradio.com/Arrow.m3u",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/the-arrow-uk.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "Classic FM UK",
+                "source": "http://vis.media-ice.musicradio.com//ClassicFMMP3",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/classic-fm-uk.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "The Breeze 107.4 FM",
+                "source": "https://stream2.celador.co.uk//breeze-newbury-96.aac",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/the-breeze-107-4-fm-newbury.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
+                "title": "Chinese Music World",
+                "source": "http://radio2.chinesemusicworld.com/;",
+                "image": "musicworld.png",
+                "trackNumber": 5,
+                "genre": "chinese_radio"
+                },
+                {
+                    "title": "Big B Radio - KPOP",
+                    "source": "http://radio2.chinesemusicworld.com/;",
+                    "image": "bigbradio.png",
+                    "trackNumber": 5,
+                    "genre": "chinese_radio"
+                },
+                {
+                    "title": "Mandarin Station 98.3 FM",
+                    "source": "http://158.69.119.235:8016/;",
+                    "image": "ms98_3.png",
+                    "trackNumber": 5,
+                    "genre": "chinese_radio"
+                },
+                {
+                    "title": "Yes 93.3 FM",
+                    "source": "https://18823.live.streamtheworld.com/YES933AAC.aac?dist=liveonlineradio",
+                    "image": "yes93_3.png",
+                    "trackNumber": 5,
+                    "genre": "chinese_radio"
+                },
+                {
+                    "title": "Kiss 92",
+                    "source": "http://20683.live.streamtheworld.com/KISS_92AAC.aac?dist=liveonlineradio",
+                    "image": "kiss.png",
+                    "trackNumber": 5,
+                    "genre": "chinese_radio"
+                },
+                {
+                    "title": "Love 97.2FM",
+                    "source": "https://19813.live.streamtheworld.com/LOVE972FMAAC.aac?dist=liveonlineradio",
+                    "image": "love97_2.png",
+                    "trackNumber": 5,
+                    "genre": "chinese_radio"
+                },
+                {
+                    "title": "Radio 988 FM",
+                    "source": "http://starrfm.rastream.com/starrfm-988",
+                    "image": "988fm.png",
+                    "trackNumber": 5,
+                    "genre": "chinese_radio"
+                },
+                {
+                    "title": "Durian FM Malaysia",
+                    "source": "http://s3.voscast.com:7140/stream/1/",
+                    "image": "durian-fm-malaysia.png",
+                    "trackNumber": 5,
+                    "genre": "chinese_radio"
+                }
     ]
 }

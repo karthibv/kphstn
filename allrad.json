@@ -81,119 +81,119 @@
         {
             "title": "Hit 96.7 FM Malayalam",
             "source": "https://19393.live.streamtheworld.com:443/HIT_SC",
-            "image": "hit96_7.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/hit-96-7-fm-malayalam.png",
             "trackNumber": "1",
             "genre": "malayalam_radio"
         },
         {
             "title": "Ragam Radio Malayalam",
             "source": "http://178.32.107.151:5116/stream/1/",
-            "image": "ragam-radio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/ragam-radio-malayalam.png",
             "trackNumber": "2",
             "genre": "malayalam_radio"
         },
         {
             "title": "Kerala Radio Malayalam",
             "source": "http://radio.hostonnet.com:8000/",
-            "image": "kerala-radio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/kerala-radio-malayalam.png",
             "trackNumber": "3",
             "genre": "malayalam_radio"
         },
         {
             "title": "Radio Heartbeats Malayalam",
             "source": "http://64.150.176.9:8272/live",
-            "image": "heartbeats-radio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/radio-heartbeats-malayalam.png",
             "trackNumber": "4",
             "genre": "malayalam_radio"
         },
         {
             "title": "Malayalam Latest Hits Radio",
             "source": "http://southradios.net:9090/malayalamhits",
-            "image": "malyalam-latest-hits.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/malayalam-latest-hits-radio.jpg",
             "trackNumber": "5",
             "genre": "malayalam_radio"
         },
         {
             "title": "Heavenly Radio Malayalam",
             "source": "http://178.32.107.151:5060/stream/1/",
-            "image": "heavenlyradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/heavenly-radio-malayalam.png",
             "trackNumber": "6",
             "genre": "malayalam_radio"
         },
         {
             "title": "World to world Radio Malayalam",
             "source": "http://178.32.107.151:5060/stream/1/",
-            "image": "worldtoworld.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/world-to-world-radio-malayalam.png",
             "trackNumber": "7",
             "genre": "malayalam_radio"
         },
         {
             "title": "Sunni Online Radio",
             "source": "http://s7.voscast.com:7812/stream/1/",
-            "image": "sunni-online-fm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/sunni-online-radio.png",
             "trackNumber": "8",
             "genre": "malayalam_radio"
         },
         {
             "title": "Ganam Radio Malayalam",
             "source": "http://5.79.88.132:7104/",
-            "image": "ganam_radio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/ganam-radio-malayalam.png",
             "trackNumber": "9",
             "genre": "malayalam_radio"
         },
         {
             "title": "Psalms Radio malayalam",
             "source": "http://viadj.viastreaming.net:7084/;",
-            "image": "psalmradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/psalms-radio-malayalam.png",
             "trackNumber": "10",
             "genre": "malayalam_radio"
         },
         {
             "title": "Marconi Malayalam",
             "source": "http://stream.zenolive.com/051bvhgvwa5tv",
-            "image": "marconimalayalam.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/marconi-malayalam.png",
             "trackNumber": "11",
             "genre": "malayalam_radio"
         },
         {
             "title": "KJ Yesudas hits Malayalam",
             "source": "http://prclive1.listenon.in:8824/;",
-            "image": "kjyesudas.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/kjyesudas.jpg",
             "trackNumber": "12",
             "genre": "malayalam_radio"
         },
         {
             "title": "Hit Classics Malayalam",
             "source": "http://19393.live.streamtheworld.com/HIT_CLASSICSAAC_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.e",
-            "image": "hitclassic.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/hitclassic.jpg",
             "trackNumber": "13",
             "genre": "malayalam_radio"
         },
         {
             "title": "Radio Maharani",
             "source": "http://audiocp.globaliway.co.in:7235/start/maharani/;stream.mp3",
-            "image": "maharaniradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/maharaniradio.png",
             "trackNumber": "14",
             "genre": "malayalam_radio"
         },
         {
             "title": "Mazhavi FM",
             "source": "http://mazhavilfm.out.airtime.pro:8000/mazhavilfm_a",
-            "image": "mazhavilfm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/mazhavilfm.jpg",
             "trackNumber": "15",
             "genre": "malayalam_radio"
         },
         {
             "title": "Club FM 94.3 Radio",
             "source": "http://mazhavilfm.out.airtime.pro:8000/mazhavilfm_a",
-            "image": "clubfm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/clubfm.jpg",
             "trackNumber": "16",
             "genre": "malayalam_radio"
         },
         {
             "title": "Malayalam Hits",
             "source": "http://southradios.net:9090/malayalamhits",
-            "image": "malayalamhits.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/malayalamhits.jpg",
             "trackNumber": "17",
             "genre": "malayalam_radio"
         },
@@ -242,133 +242,133 @@
         {
             "title": "Big FM 106.2 Hindi",
             "source": "https://sg1.fastcast4u.com/proxy/dzcwbfih?mp=/1",
-            "image": "bigfm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/bigfm.jpg",
             "trackNumber": "1",
             "genre": "hindi_radio"
         },
         {
             "title": "Radio Mirchi Hindhi FM",
             "source": "http://peridot.streamguys.com:7150/Mirchi",
-            "image": "radiomirchi_hindhi.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/radiomirchi.jpg",
             "trackNumber": "2",
             "genre": "hindi_radio"
         },
         {
             "title": "Radio City 91.1 FM Hindi",
             "source": "http://prclive1.listenon.in:9960/",
-            "image": "radiocity.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/radiocityhiphop.png",
             "trackNumber": "3",
             "genre": "hindi_radio"
         },
         {
             "title": "Air Vividh Bharati",
             "source": "http://vividhbharati-lh.akamaihd.net/i/vividhbharati_1@507811/master.m3u8",
-            "image": "vividhbharti.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/air-vividh-bharati.png",
             "trackNumber": "4",
             "genre": "hindi_radio"
         },
         {
             "title": "Bombay Beats Hindi",
             "source": "http://sc-bb.1.fm:8017/",
-            "image": "bombaybeats.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/bombay-beats-hindi.png",
             "trackNumber": "5",
             "genre": "hindi_radio"
         },
         {
             "title": "Bollywood Radio and Beyond",
             "source": "http://96.31.83.86:8084/",
-            "image": "bollywoodbeyond.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/bollywood-radio-and-beyond.jpg",
             "trackNumber": "6",
             "genre": "hindi_radio"
         },
         {
             "title": "Mohd Rafi Radio",
             "source": "http://radio.mohdrafi.com/rafi.mp3?1501312173835.mp3",
-            "image": "mohdrafi.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/Mohd-Rafi-Radio.jpg",
             "trackNumber": "7",
             "genre": "hindi_radio"
         },
         {
             "title": "BBC Hindi Radio",
             "source": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup?type=.mp3",
-            "image": "bbc_hindhi.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/BBC-Hindi.jpg",
             "trackNumber": "8",
             "genre": "hindi_radio"
         },
         {
             "title": "Bollywood Hungama",
             "source": "http://www.bollywoodhungama.com/wp-content/uploads/2016/10/Nashe-Si-Chadh-Gayi.mp3",
-            "image": "hungama.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/Bollywood-Hungama.jpg",
             "trackNumber": "9",
             "genre": "hindi_radio"
         },
         {
             "title": "Hits Of Bollywood",
             "source": "http://50.7.77.115:8174/;",
-            "image": "musicbeats.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/Hits-Of-Bollywood.jpg",
             "trackNumber": "10",
             "genre": "hindi_radio"
         },
         {
             "title": "All India Radio FM Gold",
             "source": "https://airfmgold-lh.akamaihd.net//i//fmgold_1@507591//master.m3u8",
-            "image": "fmgold-hindhi.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/all-india-radio-fm-gold.png",
             "trackNumber": "12",
             "genre": "hindi_radio"
         },
         {
             "title": "AR Rahman Hindi Hits",
             "source": "http://southradios.net:9090/arrahmanhindiradio",
-            "image": "arrahmanhindhi.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/arrahman.jpg",
             "trackNumber": "13",
             "genre": "hindi_radio"
         },
         {
             "title": "Sada Bahar Music Radio",
             "source": "http://192.240.102.133:8512/stream/1/",
-            "image": "sadabahar.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/sadabahar.png",
             "trackNumber": "14",
             "genre": "hindi_radio"
         },
         {
             "title": "Lata Mangeshkar Radio",
             "source": "http://prclive1.listenon.in:8832/;",
-            "image": "latamangeshkarradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/latamangeshkarradio.jpg",
             "trackNumber": "15",
             "genre": "hindi_radio"
         },
         {
             "title": "Asha bhosle radio Hindi FM",
             "source": "http://prclive1.listenon.in:8812/;",
-            "image": "ashabhosleradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/ashabhosleradio.jpg",
             "trackNumber": "16",
             "genre": "hindi_radio"
         },
         {
             "title": "Non Stop Hindi FM",
             "source": "http://s5.voscast.com:8216/",
-            "image": "nonstophindhi.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/non-stop-hindi-fm.jpg",
             "trackNumber": "17",
             "genre": "hindi_radio"
         },
         {
             "title": "Indifun Radio",
             "source": "http://indifun.net:7000/",
-            "image": "indifunradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/indifun-radio.jpg",
             "trackNumber": "18",
             "genre": "hindi_radio"
         },
         {
             "title": "Radio 90.5 FM Hindi",
             "source": "http://ice42.securenetsystems.net/CR90?type=.mp3",
-            "image": "radio90_5fm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/radio90fm.jpg",
             "trackNumber": "19",
             "genre": "hindi_radio"
         },
         {
             "title": "Radio Olive 106.3 FM",
             "source": "http://19113.live.streamtheworld.com/OLIVE1063.mp3",
-            "image": "radioolive.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/hi/radioolive.jpg",
             "trackNumber": "20",
             "genre": "hindi_radio"
         },
@@ -445,98 +445,98 @@
         {
             "title": "Spice FM Radio",
             "source": "http://fmout.spicefm.in:8000/spice_b",
-            "image": "spice-fm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/spice-fm.jpg",
             "trackNumber": "1",
             "genre": "telugu_radio"
         },
         {
             "title": "Telugu One Radio",
             "source": "http://173.203.133.187:9700/stream/1/",
-            "image": "telugu-one.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/telugu-one-radio.png",
             "trackNumber": "2",
             "genre": "telugu_radio"
         },
         {
             "title": "AP 9 Fm Radio",
             "source": "http://s2.voscast.com:10704/;",
-            "image": "ap9fm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/ap9fm.jpg",
             "trackNumber": "3",
             "genre": "telugu_radio"
         },
         {
             "title": "Radio Sai FM Telugu",
             "source": "http://stream.radiosai.org:8020/asiastreamfortelugu",
-            "image": "radio-sai.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/radio-sai.png",
             "trackNumber": "4",
             "genre": "telugu_radio"
         },
         {
             "title": "Manasu Tho Emotional Songs",
             "source": "http://85.25.95.17:8008/stream/1/",
-            "image": "emotional-song.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/manasu-tho-emotional-songs.png",
             "trackNumber": "5",
             "genre": "telugu_radio"
         },
         {
             "title": "Radio9 Telugu",
             "source": "http://64.150.176.42:8166/stream/1/",
-            "image": "radio9-telugu.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/radio9-telugu.png",
             "trackNumber": "6",
             "genre": "telugu_radio"
         },
         {
             "title": "Gelupu Telugu FM",
             "source": "http://s7.voscast.com:7586/;",
-            "image": "mirchiloveradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/gelupuradio.jpg",
             "trackNumber": "7",
             "genre": "telugu_radio"
         },
         {
             "title": "Nuke Telugu old hits",
             "source": "http://live.nukeradio.com:8012/stream3;",
-            "image": "nuketeluguoldhits.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/nuketeluguoldhits.jpg",
             "trackNumber": "8",
             "genre": "telugu_radio"
         },
         {
             "title": "Mirchi Love Radio",
             "source": "http://51.15.208.163:8081/radio/Mirchi_love_telugu/icecast.audio",
-            "image": "mirchiloveradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/mirchiloveradio.jpg",
             "trackNumber": "9",
             "genre": "telugu_radio"
         },
         {
             "title": "Ghantasala Hits Telugu FM",
             "source": "http://prclive1.listenon.in:8822/;",
-            "image": "ghantasalahits.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/ghantasalahits.jpg",
             "trackNumber": "10",
             "genre": "telugu_radio"
         },
         {
             "title": "Malaysia Telugu Radio",
             "source": "http://listen.radioking.com/radio/142831/stream/183013",
-            "image": "malaysiateluguradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/malaysiateluguradio.jpg",
             "trackNumber": "11",
             "genre": "telugu_radio"
         },
         {
             "title": "NEC FM Radio",
             "source": "http://s2.voscast.com:10382/;",
-            "image": "necfm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/necfm.jpg",
             "trackNumber": "12",
             "genre": "telugu_radio"
         },
         {
             "title": "Caravan Telugu FM",
             "source": "https://stream.radio.co/s0ae6d3940/listen;",
-            "image": "radiocaravan.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/radiocaravan.jpg",
             "trackNumber": "13",
             "genre": "telugu_radio"
         },
         {
             "title": "Telugu Hits Radio",
             "source": "https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/master.m3u8",
-            "image": "teluguhits.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/teluguhits.jpg",
             "trackNumber": "14",
             "genre": "telugu_radio"
         },
@@ -571,7 +571,7 @@
          {
          "title": "Radio Vividh Bharati",
          "source": "http://51.15.208.163:8081/radio/vividhbharati/icecast.audio",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/station-newportfolk.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/vividhbharathi.png",
          "trackNumber": 27,
          "genre": "tamil_radio"
         },
@@ -588,7 +588,21 @@
         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ilayarajafm.jpg",
         "trackNumber": 29,
         "genre": "tamil_radio"
-    }
+    },
+    {
+        "title": "Raaja FM",
+        "source": "http://live.tamilkuyilradio.com:8026/rajaradio",
+        "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/raajafm.png",
+        "trackNumber": 28,
+        "genre": "tamil_radio"
+       },
+       {
+           "title": "Shakthi FM Tamil",
+           "source": "http://live.trusl.com:1160/;",
+           "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/shakthifmradio.png",
+           "trackNumber": 28,
+           "genre": "tamil_radio"
+          }
      ,
      {
      "title": "A.R. Rahman Radio Tamil",
@@ -890,38 +904,16 @@
             "genre": "tamil_radio"
         },
         {
-            "title": "Thenral World Radio",
-            "source": "http://sc2.ddns.net:9116/",
-            "image": "",
-            "trackNumber": 74,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Vithu FM",
-            "source": "http://s3.voscast.com:8402/",
-            "image": "",
+            "title": "Hariharan Hits",
+            "source": "http://192.227.116.104:4263/autodj",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/hariharanhits.png",
             "trackNumber": 77,
             "genre": "tamil_radio"
         },
         {
-            "title": "Tamil 2 World FM",
-            "source": "http://s8.voscast.com:7674/",
-            "image": "",
-            "trackNumber": 70,
-            "genre": "tamil_radio"
-        },
-        {
-            "title": "Tamil Top-40 Radio",
-            "source": "http://212.83.138.48:8336/;",
-            "image": "",
-            "trackNumber": 5,
-            "genre": "tamil_radio"
-        },
-        
-        {
             "title": "Tamil Lite Radio",
-            "source": "http://212.83.138.48:8348/;",
-            "image": "",
+            "source": "http://southradios.net:9090/tamilliteradio",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilliteradio.png",
             "trackNumber": 8,
             "genre": "tamil_radio"
         },
@@ -930,42 +922,42 @@
         {
             "title": "Tamil Sun FM",
             "source": "http://192.99.4.210:3596/;",
-            "image": "",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilsunfm.png",
             "trackNumber": 15,
             "genre": "tamil_radio"
         },
         {
             "title": "Vanavil FM",
-            "source": "http://s1.vanavilfm.com:9000/;",
-            "image": "",
+            "source": "http://s1.vanavilfm.com:9000/;stream.mp3",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/vanavilfm.png",
             "trackNumber": 16,
             "genre": "tamil_radio"
         },
         {
             "title": "TamilOne Radio CH",
-            "source": "http://www.tamilone.ch:8000/stream_128",
-            "image": "",
+            "source": "http://www.tamilone.ch:8000/stream_64",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilone.png",
             "trackNumber": 19,
             "genre": "tamil_radio"
         },
         {
             "title": "UTHM Radio",
             "source": "http://radio.uthm.edu.my:8000/live.mp3",
-            "image": "uthmradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/uthmradio.jpg",
             "trackNumber": 1,
             "genre": "malay_radio"
         },
         {
             "title": "Kool FM 101.3",
             "source": "http://mediaprima.rastream.com//mediaprima-koolfm",
-            "image": "kool-fm-101-3.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/kool-fm.png",
             "trackNumber": 2,
             "genre": "malay_radio"
         },
         {
             "title": "Bapakku FM",
             "source": "http://radio.bapakku.fm:8000/stream/1/",
-            "image": "bapakku-fm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/bapakkufm.png",
             "trackNumber": 3,
             "genre": "malay_radio"
         },
@@ -973,91 +965,85 @@
         {
             "title": "Mutiara FM 95.7",
             "source": "https://dkmgz1nucppmx.cloudfront.net//rtm-ch039//playlist.m3u8",
-            "image": "mutiara-fm-95-7.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/mutiarafm.png",
             "trackNumber": 4,
             "genre": "malay_radio"
         },
      {
          "title": "Radio 988 FM",
          "source": "http://starrfm.rastream.com/starrfm-988",
-         "image": "988fm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/988fm.png",
          "trackNumber": 5,
          "genre": "malay_radio"
         },
         {
             "title": "Gold 90.5FM",
             "source": "https://17963.live.streamtheworld.com/GOLD905AAC.aac?dist=liveonlineradio",
-            "image": "gold905.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/gold905.png",
             "trackNumber": 5,
             "genre": "english_radio"
         },
             {
                 "title": "Red FM 107.8 FM",
                 "source": "http://shaincast.caster.fm:47830/listen.mp3",
-                "image": "red107.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/red107.png",
                 "trackNumber": 5,
                 "genre": "english_radio"
             },
-            {
-                "title": "Class 95 FM",
-                "source": "https://19183.live.streamtheworld.com/CLASS95AAC.aac?dist=liveonlineradio",
-                "image": "class95.png",
-                "trackNumber": 5,
-                "genre": "english_radio"
-            },
+            
             {
                 "title": "BBC world servie FM",
                 "source": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
-                "image": "bbcworldservice.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/bbcworldservice.jpg",
                 "trackNumber": 5,
                 "genre": "english_radio"
             },
             {
                 "title": "All Hit Radio English",
                 "source": "http://zas1.ndx.co.za:8124/;listen.mp3",
-                "image": "allhitradio.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/allhitradio.jpg",
                 "trackNumber": 5,
                 "genre": "english_radio"
             },
             {
                 "title": "94.7 FM Hits English",
                 "source": "http://ice66.securenetsystems.net/WYUL2",
-                "image": "947fmhits.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/947fmhits.jpg",
                 "trackNumber": 5,
                 "genre": "english_radio"
             },
             {
                 "title": "Diamond FM English",
                 "source": "http://zas1.ndx.co.za:8170/;listen.mp3",
-                "image": "diamondfm.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/diamondfm.jpg",
                 "trackNumber": 5,
                 "genre": "english_radio"
             },
             {
                 "title": "Dance FM English",
                 "source": "http://19113.live.streamtheworld.com:3690/DANCE_FM_SC",
-                "image": "dancefm.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/dancefm.jpg",
                 "trackNumber": 5,
                 "genre": "english_radio"
             },
             {
                 "title": "Kiss FM English",
                 "source": "http://s3.voscast.com:8404/;stream.mp3",
-                "image": "kissfmenglish.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/kissfm.jpg",
                 "trackNumber": 5,
                 "genre": "english_radio"
             },
             {
                 "title": "A BIG HitZ Radio",
                 "source": "http://listen.radionomy.com/a-big-hitz-radio",
-                "image": "abighitz.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/abighitz.jpg",
                 "trackNumber": 5,
                 "genre": "english_radio"
             },
             {
                 "title": "Insomnia FM",
                 "source": "http://635.cloudrad.io:8092/;",
-                "image": "Insomniafm.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/Insomniafm.jpg",
                 "trackNumber": 5,
                 "genre": "english_radio"
             },
@@ -1097,58 +1083,65 @@
                 "genre": "english_radio"
             },
             {
+                "title": "Class 95 FM",
+                "source": "https://19183.live.streamtheworld.com/CLASS95AAC.aac?dist=liveonlineradio",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/class95.png",
+                "trackNumber": 5,
+                "genre": "english_radio"
+            },
+            {
                 "title": "Chinese Music World",
                 "source": "http://radio2.chinesemusicworld.com/;",
-                "image": "musicworld.png",
+                "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/cn/musicworld.png",
                 "trackNumber": 5,
                 "genre": "chinese_radio"
                 },
                 {
                     "title": "Big B Radio - KPOP",
                     "source": "http://radio2.chinesemusicworld.com/;",
-                    "image": "bigbradio.png",
+                    "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/cn/bigbradio.png",
                     "trackNumber": 5,
                     "genre": "chinese_radio"
                 },
                 {
                     "title": "Mandarin Station 98.3 FM",
                     "source": "http://158.69.119.235:8016/;",
-                    "image": "ms98_3.png",
+                    "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/cn/mandarinstn.png",
                     "trackNumber": 5,
                     "genre": "chinese_radio"
                 },
                 {
                     "title": "Yes 93.3 FM",
                     "source": "https://18823.live.streamtheworld.com/YES933AAC.aac?dist=liveonlineradio",
-                    "image": "yes93_3.png",
+                    "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/cn/yesfm.jpg",
                     "trackNumber": 5,
                     "genre": "chinese_radio"
                 },
                 {
                     "title": "Kiss 92",
                     "source": "http://20683.live.streamtheworld.com/KISS_92AAC.aac?dist=liveonlineradio",
-                    "image": "kiss.png",
+                    "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/cn/Kiss925.jpg",
                     "trackNumber": 5,
                     "genre": "chinese_radio"
                 },
                 {
                     "title": "Love 97.2FM",
                     "source": "https://19813.live.streamtheworld.com/LOVE972FMAAC.aac?dist=liveonlineradio",
-                    "image": "love97_2.png",
+                    "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/cn/Love972FM.jpg",
                     "trackNumber": 5,
                     "genre": "chinese_radio"
                 },
                 {
                     "title": "Radio 988 FM",
                     "source": "http://starrfm.rastream.com/starrfm-988",
-                    "image": "988fm.png",
+                    "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/cn/988fm.png",
                     "trackNumber": 5,
                     "genre": "chinese_radio"
                 },
                 {
                     "title": "Durian FM Malaysia",
                     "source": "http://s3.voscast.com:7140/stream/1/",
-                    "image": "durian-fm-malaysia.png",
+                    "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/cn/durian-fm-malaysia.png",
                     "trackNumber": 5,
                     "genre": "chinese_radio"
                 }

@@ -4,56 +4,56 @@
         {
             "title": "Radio City Kannada",
             "source": "http://prclive1.listenon.in:8870/",
-            "image": "city-kannada.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/citykannada.png",
             "trackNumber": "1",
             "genre": "kannada_radio"
         },
         {
             "title": "Premaloka Kannada Radio",
             "source": "http://prclive1.listenon.in:9934/",
-            "image": "premaloka.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/premaloka.png",
             "trackNumber": "2",
             "genre": "kannada_radio"
         },
         {
             "title": "Madhur Tarang Kannada Radio",
             "source": "http://philae.shoutca.st:8293/;",
-            "image": "madhurtarang.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/madhurtarang.png",
             "trackNumber": "3",
             "genre": "kannada_radio"
         },
         {
             "title": "DR RajKumar Hits",
             "source": "http://prclive1.listenon.in:8826/;",
-            "image": "rajjumarhits.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/rajjumarhits.png",
             "trackNumber": "4",
             "genre": "kannada_radio"
         },
         {
             "title": "Mirchi kannada hits",
             "source": "https://kannadahits-lh.akamaihd.net/i/kannadahits_1@492837/master.m3u8",
-            "image": "kannadahits.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/kannadahits.png",
             "trackNumber": "5",
             "genre": "kannada_radio"
         },
         {
             "title": "Radio Sarang Kannada",
             "source": "http://radiosarang.com:4048/Sarang",
-            "image": "radiosarang.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/radiosarang.png",
             "trackNumber": "6",
             "genre": "kannada_radio"
         },
         {
             "title": "Namm Radio Kannada",
             "source": "http://stream.zenolive.com/6quh1pfnt1duv",
-            "image": "nammradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/nammradio.png",
             "trackNumber": "7",
             "genre": "kannada_radio"
         },
         {
             "title": "Shalom Beats Radio",
             "source": "http://rd.shalombeatsradio.com:8090/stream",
-            "image": "shalombeatsradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/shalombeatsradio.png",
             "trackNumber": "8",
             "genre": "kannada_radio"
         },

@@ -704,7 +704,7 @@
          "genre": "tamil_radio"
         },
      {
-         "title": "Radio City Tamil Gold FM",
+         "title": "Radio City Tamil Gold",
          "source": "http://prclive1.listenon.in:9930/",
          "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/radiocitytamilgoldfm.jpg",
          "trackNumber": 44,
@@ -718,7 +718,7 @@
          "genre": "tamil_radio"
         },
      {
-         "title": "TAMIL FM 89.4 ONLINE RADIO",
+         "title": "TAMIL FM 89.4",
          "source": "http://s3.voscast.com:8402/",
          "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilradiofm.png",
          "trackNumber": 46,
@@ -762,7 +762,7 @@
          "genre": "tamil_radio"
          } ,
      {
-         "title": "Ilayaraja Super Beats Radio",
+         "title": "Ilayaraja Super Beats",
          "source": "http://southradios.net:9090/ilayarajasuperbeatsradio",
          "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ilayarajasuperbeatsradio.jpg",
          "trackNumber": 52,
@@ -798,24 +798,17 @@
          "genre": "tamil_radio"
         },
      {
-         "title": "Rajinikanth Hits Radio",
+         "title": "Rajinikanth Hits",
          "source": "http://prclive1.listenon.in:9296/;stream.mp3",
          "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/rajnikanth.jpeg",
          "trackNumber": 57,
          "genre": "tamil_radio"
         },
      {
-         "title": "US Tamil FM online",
+         "title": "US Tamil FM",
          "source": "http://streaming.radio.co/s0cfc93915/listen",
          "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ustamilfm.jpg",
          "trackNumber": 58,
-         "genre": "tamil_radio"
-        },
-     {
-         "title": "Minnal FM 92.3",
-         "source": "https://dkmgz1nucppmx.cloudfront.net/rtm-ch021/playlist.m3u8",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/minnal-fm92350.png",
-         "trackNumber": 59,
          "genre": "tamil_radio"
         },
      {
@@ -857,7 +850,7 @@
      {
          "title": "AR Rahman lite FM",
          "source": "http://southradios.net:9090/arrahmanliteradio",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/arrahmanliteradio.jpg",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ARRaham.jpg",
          "trackNumber": 65,
          "genre": "tamil_radio"
         },
@@ -892,7 +885,7 @@
      {
         "title": "Raja Radio Online",
         "source": "http://live.tamilkuyilradio.com:8026/rajaradio",
-        "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/raajafm.png",
+        "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ilayarajafm.jpg",
         "trackNumber": 70,
         "genre": "tamil_radio"
     },

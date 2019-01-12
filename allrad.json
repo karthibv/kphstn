@@ -32,28 +32,28 @@
         {
             "title": "Mirchi kannada hits",
             "source": "https://kannadahits-lh.akamaihd.net/i/kannadahits_1@492837/master.m3u8",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/kannadahits.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/kannadahits.jpg",
             "trackNumber": "5",
             "genre": "kannada_radio"
         },
         {
             "title": "Radio Sarang Kannada",
             "source": "http://radiosarang.com:4048/Sarang",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/radiosarang.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/radiosarang.jpg",
             "trackNumber": "6",
             "genre": "kannada_radio"
         },
         {
             "title": "Namm Radio Kannada",
             "source": "http://stream.zenolive.com/6quh1pfnt1duv",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/nammradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/nammradio.jpg",
             "trackNumber": "7",
             "genre": "kannada_radio"
         },
         {
             "title": "Shalom Beats Radio",
             "source": "http://rd.shalombeatsradio.com:8090/stream",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/shalombeatsradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/kan/shalombeatsradio.jpg",
             "trackNumber": "8",
             "genre": "kannada_radio"
         },

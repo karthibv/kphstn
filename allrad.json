@@ -691,8 +691,8 @@
         },
      {
          "title": "Tamil Aruvi FM",
-         "source": "http://s9.voscast.com:8430/stream/1/",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/aruvi.png",
+         "source": "http://s9.voscast.com:8430/;stream.mp3",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilaruvi.png",
          "trackNumber": 42,
          "genre": "tamil_radio"
         },

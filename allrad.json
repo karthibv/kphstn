@@ -606,49 +606,49 @@
         {
             "title": "Radio Mirchi Tamil FM",
             "source": "http://163.172.165.94:8320/",
-            "image": "mirchitamilfm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/radio-mirchi-tamil-fm50.jpg",
             "trackNumber": 23,
             "genre": "tamil_radio"
         },
         {
             "title": "Suryan 93.5 FM",
             "source": "http://163.172.165.94:8728/",
-            "image": "suryanfm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/Suryan.jpg",
             "trackNumber": 24,
             "genre": "tamil_radio"
         },
         {
             "title": "Sooriyan 103.6 FM",
             "source": "http://209.133.216.3:7071/",
-            "image": "sooriyanfm.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/sooriyanfm.jpg",
             "trackNumber": 25,
             "genre": "tamil_radio"
         },
          {
          "title": "All India Radio Air Tamil",
          "source": "http://51.15.208.163:8081/radio/airtamil/icecast.audio",
-         "image": "airtamil.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/AllIndiaRadioTamil.jpg",
          "trackNumber": 26,
          "genre": "tamil_radio"
         },
          {
          "title": "Radio Vividh Bharati",
          "source": "http://51.15.208.163:8081/radio/vividhbharati/icecast.audio",
-         "image": "station-newportfolk.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/station-newportfolk.png",
          "trackNumber": 27,
          "genre": "tamil_radio"
         },
      {
      "title": "Ilayaraja Radio",
      "source": "http://southradios.net:9090/ilayarajaradio",
-     "image": "illayarajafm.png",
+     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/illayarajafm.png",
      "trackNumber": 28,
      "genre": "tamil_radio"
     },
      {
         "title": "Ilayaraja Lite Radio",
         "source": "http://southradios.net:9090/ilayarajaliteradio",
-        "image": "illayarajafm.png",
+        "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ilayarajafm.jpg",
         "trackNumber": 29,
         "genre": "tamil_radio"
     }
@@ -656,7 +656,7 @@
      {
      "title": "A.R. Rahman Radio Tamil",
      "source": "http://southradios.net:9090/arrahmanradio",
-     "image": "arrahman.png",
+     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ARRaham.png",
      "trackNumber": 30,
      "genre": "tamil_radio"
     }
@@ -664,48 +664,48 @@
      {
      "title": "Geetham Tamil Radio",
      "source": "http://www.geethamradio.com:8020/hifi.mp3?type=.mp3/;stream.mp3",
-     "image": "geethamradio.png",
+     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/geethamradio.png",
      "trackNumber": 31,
      "genre": "tamil_radio"
     },
      {
         "title": "Geetham Old Songs",
         "source": "http://www.geethamradio.com:8020/old_hifi.mp3",
-        "image": "geethamradio.png",
+        "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/geethamradio.png",
         "trackNumber": 32,
         "genre": "tamil_radio"
     },
     {
             "title": "Geetham 80s songs",
             "source": "http://www.geethamradio.com:8020/80s_lofi.mp3",
-            "image": "geethamradio.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/geethamradio.png",
             "trackNumber": 33,
             "genre": "tamil_radio"
      },
      {
         "title": "Geetham New songs",
         "source": "http://www.geethamradio.com:8020/new_hifi.mp3",
-        "image": "geethamradio.png",
+        "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/geethamradio.png",
         "trackNumber": 34,
         "genre": "tamil_radio"
         },{
         "title": "Geetham Party songs",
         "source": "http://www.geethamradio.com:8020/party_hifi.mp3",
-        "image": "geethamradio.png",
+        "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/geethamradio.png",
         "trackNumber": 35,
         "genre": "tamil_radio"
     },
      {
      "title": "Radio Red FM Tamil",
      "source": "http://192.99.35.93:6130/;stream.mp3",
-     "image": "redfmtamil.png",
+     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/redfmradio.jpg",
      "trackNumber": 36,
      "genre": "tamil_radio"
     },
      {
      "title": "Oli 96.8 FM",
      "source": "http://19113.live.streamtheworld.com/OLIVE1063.mp3",
-     "image": "olifm.png",
+     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/Oli968FM50.jpg",
      "trackNumber": 37,
      "genre": "tamil_radio"
     }
@@ -713,70 +713,70 @@
      {
      "title": "Radio iYaliSai",
      "source": "http://andromeda.shoutca.st:9350/mp64",
-     "image": "Iyalisairadio.png",
+     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/iyalisairadio.jpg",
      "trackNumber": 38,
      "genre": "tamil_radio"
     },
      {
          "title": "Anirudh Radio",
          "source": "http://southradios.net:9090/anirudhradio",
-         "image": "anirudh.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/anirudhradio.jpg",
          "trackNumber": 39,
          "genre": "tamil_radio"
         },
      {
          "title": "K. J. Yesudas Radio",
          "source": "http://southradios.net:9090/kjyesudasradio",
-         "image": "kjyesudas.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/KJYesudasHits.jpg",
          "trackNumber": 40,
          "genre": "tamil_radio"
         },
      {
          "title": "SPB Radio",
          "source": "http://southradios.net:9090/spbradio",
-         "image": "spb.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/spbradio.jpg",
          "trackNumber": 41,
          "genre": "tamil_radio"
         },
      {
          "title": "Tamil Aruvi FM",
          "source": "http://s9.voscast.com:8430/stream/1/",
-         "image": "aruvi.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/aruvi.png",
          "trackNumber": 42,
          "genre": "tamil_radio"
         },
      {
          "title": "Hello FM",
          "source": "http://163.172.165.94:8736/",
-         "image": "hello-fm-tamil-radio.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/hellofmtamilradio.jpg",
          "trackNumber": 43,
          "genre": "tamil_radio"
         },
      {
          "title": "Radio City Tamil Gold FM",
          "source": "http://prclive1.listenon.in:9930/",
-         "image": "radiocity-tamilgold.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/radiocitytamilgoldfm.jpg",
          "trackNumber": 44,
          "genre": "tamil_radio"
         },
      {
          "title": "Varnam FM",
          "source": "http://s3.voscast.com:8402/",
-         "image": "varanamfm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/varanamfm.jpg",
          "trackNumber": 45,
          "genre": "tamil_radio"
         },
      {
          "title": "TAMIL FM 89.4 ONLINE RADIO",
          "source": "http://s3.voscast.com:8402/",
-         "image": "tamil_89_4.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilradiofm.png",
          "trackNumber": 46,
          "genre": "tamil_radio"
         },
      {
          "title": "Harris Jayaraj Radio",
          "source": "http://southradios.net:9090/harrisjayarajradio",
-         "image": "harisjayarajfm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/harrisjayarajadio.jpg",
          "trackNumber": 47,
          "genre": "tamil_radio"
         }
@@ -784,14 +784,14 @@
      {
          "title": "Planet Radio City",
          "source": "http://prclive1.listenon.in:9948/",
-         "image": "planetradio.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/planetradiocitytamilfm.jpg",
          "trackNumber": 48,
          "genre": "tamil_radio"
          } ,
      {
          "title": "Ezhisai FM",
          "source": "http://eu4.radioboss.fm:8191/;listen.pls?sid=1",
-         "image": "ezhisaifm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ezhisaifmradio.jpg",
          "trackNumber": 49,
          "genre": "tamil_radio"
         }
@@ -799,35 +799,35 @@
      {
          "title": "Naga FM",
          "source": "http://songs.nagafm.com:8006/",
-         "image": "nagafm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/nagafmradio.jpg",
          "trackNumber": 50,
          "genre": "tamil_radio"
          } ,
      {
          "title": "Chellam FM",
          "source": "http://radio.chellam.fm:5012/stream",
-         "image": "chellamfm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/chellamfm.jpg",
          "trackNumber": 51,
          "genre": "tamil_radio"
          } ,
      {
          "title": "Ilayaraja Super Beats Radio",
          "source": "http://southradios.net:9090/ilayarajasuperbeatsradio",
-         "image": "illayarajasuperbeats.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/illayarajasuperbeats.jpg",
          "trackNumber": 52,
          "genre": "tamil_radio"
          } ,
      {
          "title": "Lankasri FM",
          "source": "http://media2.lankasri.fm/",
-         "image": "lankasrifm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ankasrifm.jpg",
          "trackNumber": 53,
          "genre": "tamil_radio"
         },
      {
          "title": "Puradsi FM",
          "source": "http://s1.puradsifm.net:9000/",
-         "image": "puradsifm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/puradsifm.jpg",
          "trackNumber": 54,
          "genre": "tamil_radio"
         }
@@ -835,42 +835,42 @@
      {
          "title": "YSR Radio Tamil",
          "source": "http://southradios.net:9090/ysrradio",
-         "image": "ysrradio.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ysrradio.png",
          "trackNumber": 55,
          "genre": "tamil_radio"
         },
      {
          "title": "Tube Tamil FM",
          "source": "http://s2.voscast.com:12084/.mp3",
-         "image": "tubetamilfm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tubetamilfm.jpg",
          "trackNumber": 56,
          "genre": "tamil_radio"
         },
      {
          "title": "Rajinikanth Hits Radio",
          "source": "http://prclive1.listenon.in:9296/;stream.mp3",
-         "image": "rajinikanth.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/rajinikanth.jpeg",
          "trackNumber": 57,
          "genre": "tamil_radio"
         },
      {
          "title": "US Tamil FM online",
          "source": "http://streaming.radio.co/s0cfc93915/listen",
-         "image": "ustamilfm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ustamilfm.jpg",
          "trackNumber": 58,
          "genre": "tamil_radio"
         },
      {
          "title": "Minnal FM 92.3",
          "source": "https://dkmgz1nucppmx.cloudfront.net/rtm-ch021/playlist.m3u8",
-         "image": "minnalfm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/minnal-fm92350.png",
          "trackNumber": 59,
          "genre": "tamil_radio"
         },
      {
          "title": "Tamizh FM",
          "source": "http://shaincast.caster.fm:47814/listen.mp3",
-         "image": "tamilradiofm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilradiofm.png",
          "trackNumber": 60,
          "genre": "tamil_radio"
         },
@@ -878,42 +878,42 @@
      {
          "title": "TamilMirror Radio",
          "source": "http://s6.voscast.com:7888/stream/1/",
-         "image": "tamilmirror-radio.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilmirrorradio.png",
          "trackNumber": 61,
          "genre": "tamil_radio"
         },
      {
          "title": "Shakthi FM 104.1 FM",
          "source": "http://live.trusl.com:1160/stream/1/",
-         "image": "shakthi-fm-104-1-fm.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/shakthifm1041fm.png",
          "trackNumber": 62,
          "genre": "tamil_radio"
         },
      {
          "title": "Radio City Deepam",
          "source": "http://prclive1.listenon.in:9306//;",
-         "image": "radiocitydeepam.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/radiocitydeepam.jpg",
          "trackNumber": 63,
          "genre": "tamil_radio"
         },
      {
          "title": "Kamal Hasan Hits",
          "source": "http://prclive1.listenon.in:8836/;",
-         "image": "kamalhasanhits.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/kamalhasanhits.jpg",
          "trackNumber": 64,
          "genre": "tamil_radio"
         },
      {
          "title": "AR Rahman lite FM",
          "source": "http://southradios.net:9090/arrahmanliteradio",
-         "image": "arrahmanliteradio.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/arrahmanliteradio.jpg",
          "trackNumber": 65,
          "genre": "tamil_radio"
         },
      {
          "title": "Palaiya Paadal Radio",
          "source": "http://southradios.net:9090/palaiyapaadalradio",
-         "image": "palaiyapaadalradio.png",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/palaiyapaadalradio.jpg",
          "trackNumber": 66,
          "genre": "tamil_radio"
         },

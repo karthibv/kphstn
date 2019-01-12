@@ -578,7 +578,7 @@
      {
      "title": "Ilayaraja Radio",
      "source": "http://southradios.net:9090/ilayarajaradio",
-     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/illayarajafm.png",
+     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/illayarajafm.jpg",
      "trackNumber": 28,
      "genre": "tamil_radio"
     },
@@ -671,7 +671,7 @@
      {
          "title": "SPB Radio",
          "source": "http://southradios.net:9090/spbradio",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/spbradio.jpg",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/spbradio.jpeg",
          "trackNumber": 41,
          "genre": "tamil_radio"
         },

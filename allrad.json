@@ -165,7 +165,7 @@
         {
             "title": "Hit Classics Malayalam",
             "source": "http://19393.live.streamtheworld.com/HIT_CLASSICSAAC_SC?ua=RadioTime&ttag=RadioTime&DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.e",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/hitclassic.jpg",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/mylm/hitclassics.jpg",
             "trackNumber": "13",
             "genre": "malayalam_radio"
         },
@@ -578,7 +578,7 @@
      {
      "title": "Ilayaraja Radio",
      "source": "http://southradios.net:9090/ilayarajaradio",
-     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/illayarajafm.jpg",
+     "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ilayarajafm.jpg",
      "trackNumber": 28,
      "genre": "tamil_radio"
     },
@@ -764,14 +764,14 @@
      {
          "title": "Ilayaraja Super Beats Radio",
          "source": "http://southradios.net:9090/ilayarajasuperbeatsradio",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/illayarajasuperbeats.jpg",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ilayarajasuperbeatsradio.jpg",
          "trackNumber": 52,
          "genre": "tamil_radio"
          } ,
      {
          "title": "Lankasri FM",
          "source": "http://media2.lankasri.fm/",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/ankasrifm.jpg",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/lankasrifm.jpg",
          "trackNumber": 53,
          "genre": "tamil_radio"
         },
@@ -800,7 +800,7 @@
      {
          "title": "Rajinikanth Hits Radio",
          "source": "http://prclive1.listenon.in:9296/;stream.mp3",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/rajinikanth.jpeg",
+         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/rajnikanth.jpeg",
          "trackNumber": 57,
          "genre": "tamil_radio"
         },
@@ -892,7 +892,7 @@
      {
         "title": "Raja Radio Online",
         "source": "http://live.tamilkuyilradio.com:8026/rajaradio",
-        "image": "illayarajafm.png",
+        "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/raajafm.png",
         "trackNumber": 70,
         "genre": "tamil_radio"
     },
@@ -979,7 +979,7 @@
         {
             "title": "Gold 90.5FM",
             "source": "https://17963.live.streamtheworld.com/GOLD905AAC.aac?dist=liveonlineradio",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/gold905.png",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/en/gold905.jpg",
             "trackNumber": 5,
             "genre": "english_radio"
         },

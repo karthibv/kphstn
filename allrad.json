@@ -499,6 +499,13 @@
             "genre": "telugu_radio"
         },
         {
+            "title": "Nuke Radio Telugu",
+            "source": "http://live.nukeradio.com:8000/Stream3",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/nukeradio50.jpg",
+            "trackNumber": "18",
+            "genre": "telugu_radio"
+        },
+        {
             "title": "Mirchi Love Radio",
             "source": "https://mirchilovetelugu-lh.akamaihd.net/i/Mirchi_love_telugu_1@504635/index_50_a-p.m3u8",
             "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/mirchiloveradio.jpg",

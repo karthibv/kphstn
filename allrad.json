@@ -534,10 +534,10 @@
             "genre": "telugu_radio"
         },
         {
-            "title": "Telugu Hits Radio",
-            "source": "https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/master.m3u8",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/teluguhits.jpg",
-            "trackNumber": "14",
+            "title": "Mana Radio",
+            "source": "http://107.182.226.15:8094/manaradio_128",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/manaradio50.jpg",
+            "trackNumber": "17",
             "genre": "telugu_radio"
         },
         {

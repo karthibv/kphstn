@@ -48,7 +48,7 @@
      {
          "name": "Gelupu Telugu FM",
          "streamURL": "http://s7.voscast.com:7586/;",
-         "imageURL": "mirchiloveradio.png",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/gelupuradio.jpg",
          "desc": "",
          "longDesc": "Gelupu is a Telugu radio having broadcasting from North america.Listen to Gelupu Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.Gelupu contains a huge variety of programs telcasing wonderful Hindi songs."
      },
@@ -59,13 +59,7 @@
          "desc": "",
          "longDesc": "Nuke Telugu old hits Radio is a Telugu radio having broadcasting from Telangana.Listen to Nuke Telugu old hits Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs."
      },
-     {
-         "name": "Mirchi Love Radio",
-         "streamURL": "http://51.15.208.163:8081/radio/Mirchi_love_telugu/icecast.audio",
-         "imageURL": "mirchiloveradio.png",
-         "desc": "",
-         "longDesc": "Mirchi Love Radio is a Telugu radio having broadcasting from Telangans.Listen to Mirchi Love Radio Telugu FM to listen to your favorite Telugu songs and top Tollywood songs.Mirchi Love Radio contains a huge variety of programs telcasing wonderful Hindi songs."
-     },
+     
      {
          "name": "Ghantasala Hits Telugu FM",
          "streamURL": "http://prclive1.listenon.in:8822/;",

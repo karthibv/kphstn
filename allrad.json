@@ -484,6 +484,14 @@
             "trackNumber": "6",
             "genre": "telugu_radio"
         },
+        
+        {
+            "title": "Hungama Telugu",
+            "source": "http://103.16.47.70:9444/;",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/hungama50.jpg",
+            "trackNumber": "7",
+            "genre": "telugu_radio"
+        },
         {
             "title": "Gelupu Telugu FM",
             "source": "http://s7.voscast.com:7586/;",

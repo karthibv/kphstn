@@ -528,7 +528,7 @@
         },
         {
             "title": "Caravan Telugu FM",
-            "source": "https://stream.radio.co/s0ae6d3940/listen;",
+            "source": "https://stream.radio.co/s0ae6d3940/listen",
             "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/radiocaravan.jpg",
             "trackNumber": "13",
             "genre": "telugu_radio"
@@ -932,42 +932,6 @@
             "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilone.png",
             "trackNumber": 19,
             "genre": "tamil_radio"
-        },
-        {
-            "title": "UTHM Radio",
-            "source": "http://radio.uthm.edu.my:8000/live.mp3",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/uthmradio.jpg",
-            "trackNumber": 1,
-            "genre": "malay_radio"
-        },
-        {
-            "title": "Kool FM 101.3",
-            "source": "http://mediaprima.rastream.com//mediaprima-koolfm",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/kool-fm.png",
-            "trackNumber": 2,
-            "genre": "malay_radio"
-        },
-        {
-            "title": "Bapakku FM",
-            "source": "http://radio.bapakku.fm:8000/stream/1/",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/bapakkufm.png",
-            "trackNumber": 3,
-            "genre": "malay_radio"
-        },
-        
-        {
-            "title": "Mutiara FM 95.7",
-            "source": "https://dkmgz1nucppmx.cloudfront.net//rtm-ch039//playlist.m3u8",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/mutiarafm.png",
-            "trackNumber": 4,
-            "genre": "malay_radio"
-        },
-     {
-         "title": "Radio 988 FM",
-         "source": "http://starrfm.rastream.com/starrfm-988",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/my/988fm.png",
-         "trackNumber": 5,
-         "genre": "malay_radio"
         },
         {
             "title": "Gold 90.5FM",

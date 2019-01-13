@@ -527,13 +527,6 @@
             "genre": "telugu_radio"
         },
         {
-            "title": "Caravan Telugu FM",
-            "source": "https://stream.radio.co/s0ae6d3940/listen",
-            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/radiocaravan.jpg",
-            "trackNumber": "13",
-            "genre": "telugu_radio"
-        },
-        {
             "title": "Mana Political News",
             "source": "http://38.68.135.222:8000/manaradio_128",
             "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/politicalnews50.jpg",
@@ -545,6 +538,13 @@
             "source": "https://mirchitapakahd-lh.akamaihd.net/i/mirchitapakahdlive_1_1@322572/master.m3u8",
             "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/teluguhits.jpg",
             "trackNumber": "14",
+            "genre": "telugu_radio"
+        },
+        {
+            "title": "Virijallu FM",
+            "source": "http://14123.live.streamtheworld.com/SAM02AAC10_SC",
+            "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/virijallu50.jpg",
+            "trackNumber": "15",
             "genre": "telugu_radio"
         },
         {

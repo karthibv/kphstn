@@ -90,9 +90,9 @@
      {
          "name": "Mana Political News",
          "streamURL": "http://38.68.135.222:8000/manaradio_128",
-         "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/politicalnews.jpg",
+         "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/politicalnews.jpg",
          "desc": "",
-         "longDesc": "Mana Political News  is a Telugu radio having broadcasting from India.Listen to Mana Political News Telugu FM to listen to your favorite Telugu songs and top Tollywood songs"
+         "longDesc": "Radio Caravan is a Telugu radio having broadcasting from USA.Listen to Radio Caravan Telugu FM to listen to your favorite Telugu songs and top Tollywood songs."
      },
      {
          "name": "Telugu Hits Radio",

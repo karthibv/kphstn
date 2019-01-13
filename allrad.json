@@ -543,7 +543,7 @@
         {
             "title": "Virijallu FM",
             "source": "http://14123.live.streamtheworld.com/SAM02AAC10_SC",
-            "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/virijallu50.jpg",
+            "image": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/telg/virijallu50.jpg",
             "trackNumber": "15",
             "genre": "telugu_radio"
         },

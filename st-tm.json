@@ -350,6 +350,44 @@
             "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/mohanhits.jpg",
             "desc": "",
             "longDesc": "Mohan Hits radio is a tamil radio broadcasting from India.Tune to Mohan Hits tamil radio to listen to your favorite tamil songs and top kollywood songs.Mohan Hits contains a huge variety of programs telcasing wonderful tamil songs."
+        },
+
+        {
+            "name": "Hariharan Hits",
+            "streamURL": "http://192.227.116.104:4263/autodj",
+            "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/hariharanhits.png",
+            "desc" : "",
+            "longDesc": ""
+        },
+        {
+            "name": "Tamil Lite Radio",
+            "streamURL": "http://southradios.net:9090/tamilliteradio",
+            "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilliteradio.png",
+            "desc" : "",
+            "longDesc": ""
+        },
+        
+       
+        {
+            "name": "Tamil Sun FM",
+            "streamURL": "http://192.99.4.210:3596/;",
+            "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilsunfm.png",
+            "desc" : "",
+            "longDesc": ""
+        },
+        {
+            "name": "Vanavil FM",
+            "streamURL": "http://s1.vanavilfm.com:9000/;stream.mp3",
+            "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/vanavilfm.png",
+            "desc" : "",
+            "longDesc": ""
+        },
+        {
+            "name": "TamilOne Radio CH",
+            "streamURL": "http://www.tamilone.ch:8000/stream_64",
+            "imageURL": "https://raw.githubusercontent.com/karthibv/kphstn/master/images/tm/tamilone.png",
+            "desc" : "",
+            "longDesc": ""
         }
     ]
 }
